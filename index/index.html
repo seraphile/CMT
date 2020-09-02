@@ -1,0 +1,657 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=utf-8"/><title>Canada Moist Talkers 🗣</title><style>
+/* webkit printing magic: print all background colors */
+html {
+	-webkit-print-color-adjust: exact;
+}
+* {
+	box-sizing: border-box;
+	-webkit-print-color-adjust: exact;
+}
+
+html,
+body {
+	margin: 0;
+	padding: 0;
+}
+@media only screen {
+	body {
+		margin: 2em auto;
+		max-width: 900px;
+		color: rgb(55, 53, 47);
+	}
+}
+
+body {
+	line-height: 1.5;
+	white-space: pre-wrap;
+}
+
+a,
+a.visited {
+	color: inherit;
+	text-decoration: underline;
+}
+
+.pdf-relative-link-path {
+	font-size: 80%;
+	color: #444;
+}
+
+h1,
+h2,
+h3 {
+	letter-spacing: -0.01em;
+	line-height: 1.2;
+	font-weight: 600;
+	margin-bottom: 0;
+}
+
+.page-title {
+	font-size: 2.5rem;
+	font-weight: 700;
+	margin-top: 0;
+	margin-bottom: 0.75em;
+}
+
+h1 {
+	font-size: 1.875rem;
+	margin-top: 1.875rem;
+}
+
+h2 {
+	font-size: 1.5rem;
+	margin-top: 1.5rem;
+}
+
+h3 {
+	font-size: 1.25rem;
+	margin-top: 1.25rem;
+}
+
+.source {
+	border: 1px solid #ddd;
+	border-radius: 3px;
+	padding: 1.5em;
+	word-break: break-all;
+}
+
+.callout {
+	border-radius: 3px;
+	padding: 1rem;
+}
+
+figure {
+	margin: 1.25em 0;
+	page-break-inside: avoid;
+}
+
+figcaption {
+	opacity: 0.5;
+	font-size: 85%;
+	margin-top: 0.5em;
+}
+
+mark {
+	background-color: transparent;
+}
+
+.indented {
+	padding-left: 1.5em;
+}
+
+hr {
+	background: transparent;
+	display: block;
+	width: 100%;
+	height: 1px;
+	visibility: visible;
+	border: none;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.09);
+}
+
+img {
+	max-width: 100%;
+}
+
+@media only print {
+	img {
+		max-height: 100vh;
+		object-fit: contain;
+	}
+}
+
+@page {
+	margin: 1in;
+}
+
+.collection-content {
+	font-size: 0.875rem;
+}
+
+.column-list {
+	display: flex;
+	justify-content: space-between;
+}
+
+.column {
+	padding: 0 1em;
+}
+
+.column:first-child {
+	padding-left: 0;
+}
+
+.column:last-child {
+	padding-right: 0;
+}
+
+.table_of_contents-item {
+	display: block;
+	font-size: 0.875rem;
+	line-height: 1.3;
+	padding: 0.125rem;
+}
+
+.table_of_contents-indent-1 {
+	margin-left: 1.5rem;
+}
+
+.table_of_contents-indent-2 {
+	margin-left: 3rem;
+}
+
+.table_of_contents-indent-3 {
+	margin-left: 4.5rem;
+}
+
+.table_of_contents-link {
+	text-decoration: none;
+	opacity: 0.7;
+	border-bottom: 1px solid rgba(55, 53, 47, 0.18);
+}
+
+table,
+th,
+td {
+	border: 1px solid rgba(55, 53, 47, 0.09);
+	border-collapse: collapse;
+}
+
+table {
+	border-left: none;
+	border-right: none;
+}
+
+th,
+td {
+	font-weight: normal;
+	padding: 0.25em 0.5em;
+	line-height: 1.5;
+	min-height: 1.5em;
+	text-align: left;
+}
+
+th {
+	color: rgba(55, 53, 47, 0.6);
+}
+
+ol,
+ul {
+	margin: 0;
+	margin-block-start: 0.6em;
+	margin-block-end: 0.6em;
+}
+
+li > ol:first-child,
+li > ul:first-child {
+	margin-block-start: 0.6em;
+}
+
+ul > li {
+	list-style: disc;
+}
+
+ul.to-do-list {
+	text-indent: -1.7em;
+}
+
+ul.to-do-list > li {
+	list-style: none;
+}
+
+.to-do-children-checked {
+	text-decoration: line-through;
+	opacity: 0.375;
+}
+
+ul.toggle > li {
+	list-style: none;
+}
+
+ul {
+	padding-inline-start: 1.7em;
+}
+
+ul > li {
+	padding-left: 0.1em;
+}
+
+ol {
+	padding-inline-start: 1.6em;
+}
+
+ol > li {
+	padding-left: 0.2em;
+}
+
+.mono ol {
+	padding-inline-start: 2em;
+}
+
+.mono ol > li {
+	text-indent: -0.4em;
+}
+
+.toggle {
+	padding-inline-start: 0em;
+	list-style-type: none;
+}
+
+/* Indent toggle children */
+.toggle > li > details {
+	padding-left: 1.7em;
+}
+
+.toggle > li > details > summary {
+	margin-left: -1.1em;
+}
+
+.selected-value {
+	display: inline-block;
+	padding: 0 0.5em;
+	background: rgba(206, 205, 202, 0.5);
+	border-radius: 3px;
+	margin-right: 0.5em;
+	margin-top: 0.3em;
+	margin-bottom: 0.3em;
+	white-space: nowrap;
+}
+
+.collection-title {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+time {
+	opacity: 0.5;
+}
+
+.icon {
+	display: inline-block;
+	max-width: 1.2em;
+	max-height: 1.2em;
+	text-decoration: none;
+	vertical-align: text-bottom;
+	margin-right: 0.5em;
+}
+
+img.icon {
+	border-radius: 3px;
+}
+
+.user-icon {
+	width: 1.5em;
+	height: 1.5em;
+	border-radius: 100%;
+	margin-right: 0.5rem;
+}
+
+.user-icon-inner {
+	font-size: 0.8em;
+}
+
+.text-icon {
+	border: 1px solid #000;
+	text-align: center;
+}
+
+.page-cover-image {
+	display: block;
+	object-fit: cover;
+	width: 100%;
+	height: 30vh;
+}
+
+.page-header-icon {
+	font-size: 3rem;
+	margin-bottom: 1rem;
+}
+
+.page-header-icon-with-cover {
+	margin-top: -0.72em;
+	margin-left: 0.07em;
+}
+
+.page-header-icon img {
+	border-radius: 3px;
+}
+
+.link-to-page {
+	margin: 1em 0;
+	padding: 0;
+	border: none;
+	font-weight: 500;
+}
+
+p > .user {
+	opacity: 0.5;
+}
+
+td > .user,
+td > time {
+	white-space: nowrap;
+}
+
+input[type="checkbox"] {
+	transform: scale(1.5);
+	margin-right: 0.6em;
+	vertical-align: middle;
+}
+
+p {
+	margin-top: 0.5em;
+	margin-bottom: 0.5em;
+}
+
+.image {
+	border: none;
+	margin: 1.5em 0;
+	padding: 0;
+	border-radius: 0;
+	text-align: center;
+}
+
+.code,
+code {
+	background: rgba(135, 131, 120, 0.15);
+	border-radius: 3px;
+	padding: 0.2em 0.4em;
+	border-radius: 3px;
+	font-size: 85%;
+	tab-size: 2;
+}
+
+code {
+	color: #eb5757;
+}
+
+.code {
+	padding: 1.5em 1em;
+}
+
+.code-wrap {
+	white-space: pre-wrap;
+	word-break: break-all;
+}
+
+.code > code {
+	background: none;
+	padding: 0;
+	font-size: 100%;
+	color: inherit;
+}
+
+blockquote {
+	font-size: 1.25em;
+	margin: 1em 0;
+	padding-left: 1em;
+	border-left: 3px solid rgb(55, 53, 47);
+}
+
+.bookmark {
+	text-decoration: none;
+	max-height: 8em;
+	padding: 0;
+	display: flex;
+	width: 100%;
+	align-items: stretch;
+}
+
+.bookmark-title {
+	font-size: 0.85em;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	height: 1.75em;
+	white-space: nowrap;
+}
+
+.bookmark-text {
+	display: flex;
+	flex-direction: column;
+}
+
+.bookmark-info {
+	flex: 4 1 180px;
+	padding: 12px 14px 14px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+
+.bookmark-image {
+	width: 33%;
+	flex: 1 1 180px;
+	display: block;
+	position: relative;
+	object-fit: cover;
+	border-radius: 1px;
+}
+
+.bookmark-description {
+	color: rgba(55, 53, 47, 0.6);
+	font-size: 0.75em;
+	overflow: hidden;
+	max-height: 4.5em;
+	word-break: break-word;
+}
+
+.bookmark-href {
+	font-size: 0.75em;
+	margin-top: 0.25em;
+}
+
+.sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol"; }
+.code { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace; }
+.serif { font-family: Lyon-Text, Georgia, YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "Hiragino Mincho Pro", "Songti TC", "Songti SC", "SimSun", "Nanum Myeongjo", NanumMyeongjo, Batang, serif; }
+.mono { font-family: iawriter-mono, Nitti, Menlo, Courier, monospace; }
+.pdf .sans { font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", Helvetica, "Apple Color Emoji", Arial, sans-serif, "Segoe UI Emoji", "Segoe UI Symbol", 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC', 'Noto Sans CJK KR'; }
+
+.pdf .code { font-family: Source Code Pro, "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC', 'Noto Sans Mono CJK KR'; }
+
+.pdf .serif { font-family: PT Serif, Lyon-Text, Georgia, YuMincho, "Yu Mincho", "Hiragino Mincho ProN", "Hiragino Mincho Pro", "Songti TC", "Songti SC", "SimSun", "Nanum Myeongjo", NanumMyeongjo, Batang, serif, 'Twemoji', 'Noto Color Emoji', 'Noto Sans CJK SC', 'Noto Sans CJK KR'; }
+
+.pdf .mono { font-family: PT Mono, iawriter-mono, Nitti, Menlo, Courier, monospace, 'Twemoji', 'Noto Color Emoji', 'Noto Sans Mono CJK SC', 'Noto Sans Mono CJK KR'; }
+
+.highlight-default {
+}
+.highlight-gray {
+	color: rgb(155,154,151);
+}
+.highlight-brown {
+	color: rgb(100,71,58);
+}
+.highlight-orange {
+	color: rgb(217,115,13);
+}
+.highlight-yellow {
+	color: rgb(223,171,1);
+}
+.highlight-teal {
+	color: rgb(15,123,108);
+}
+.highlight-blue {
+	color: rgb(11,110,153);
+}
+.highlight-purple {
+	color: rgb(105,64,165);
+}
+.highlight-pink {
+	color: rgb(173,26,114);
+}
+.highlight-red {
+	color: rgb(224,62,62);
+}
+.highlight-gray_background {
+	background: rgb(235,236,237);
+}
+.highlight-brown_background {
+	background: rgb(233,229,227);
+}
+.highlight-orange_background {
+	background: rgb(250,235,221);
+}
+.highlight-yellow_background {
+	background: rgb(251,243,219);
+}
+.highlight-teal_background {
+	background: rgb(221,237,234);
+}
+.highlight-blue_background {
+	background: rgb(221,235,241);
+}
+.highlight-purple_background {
+	background: rgb(234,228,242);
+}
+.highlight-pink_background {
+	background: rgb(244,223,235);
+}
+.highlight-red_background {
+	background: rgb(251,228,228);
+}
+.block-color-default {
+	color: inherit;
+	fill: inherit;
+}
+.block-color-gray {
+	color: rgba(55, 53, 47, 0.6);
+	fill: rgba(55, 53, 47, 0.6);
+}
+.block-color-brown {
+	color: rgb(100,71,58);
+	fill: rgb(100,71,58);
+}
+.block-color-orange {
+	color: rgb(217,115,13);
+	fill: rgb(217,115,13);
+}
+.block-color-yellow {
+	color: rgb(223,171,1);
+	fill: rgb(223,171,1);
+}
+.block-color-teal {
+	color: rgb(15,123,108);
+	fill: rgb(15,123,108);
+}
+.block-color-blue {
+	color: rgb(11,110,153);
+	fill: rgb(11,110,153);
+}
+.block-color-purple {
+	color: rgb(105,64,165);
+	fill: rgb(105,64,165);
+}
+.block-color-pink {
+	color: rgb(173,26,114);
+	fill: rgb(173,26,114);
+}
+.block-color-red {
+	color: rgb(224,62,62);
+	fill: rgb(224,62,62);
+}
+.block-color-gray_background {
+	background: rgb(235,236,237);
+}
+.block-color-brown_background {
+	background: rgb(233,229,227);
+}
+.block-color-orange_background {
+	background: rgb(250,235,221);
+}
+.block-color-yellow_background {
+	background: rgb(251,243,219);
+}
+.block-color-teal_background {
+	background: rgb(221,237,234);
+}
+.block-color-blue_background {
+	background: rgb(221,235,241);
+}
+.block-color-purple_background {
+	background: rgb(234,228,242);
+}
+.block-color-pink_background {
+	background: rgb(244,223,235);
+}
+.block-color-red_background {
+	background: rgb(251,228,228);
+}
+.select-value-color-default { background-color: rgba(206,205,202,0.5); }
+.select-value-color-gray { background-color: rgba(155,154,151, 0.4); }
+.select-value-color-brown { background-color: rgba(140,46,0,0.2); }
+.select-value-color-orange { background-color: rgba(245,93,0,0.2); }
+.select-value-color-yellow { background-color: rgba(233,168,0,0.2); }
+.select-value-color-green { background-color: rgba(0,135,107,0.2); }
+.select-value-color-blue { background-color: rgba(0,120,223,0.2); }
+.select-value-color-purple { background-color: rgba(103,36,222,0.2); }
+.select-value-color-pink { background-color: rgba(221,0,129,0.2); }
+.select-value-color-red { background-color: rgba(255,0,26,0.2); }
+
+.checkbox {
+	display: inline-flex;
+	vertical-align: text-bottom;
+	width: 16;
+	height: 16;
+	background-size: 16px;
+	margin-left: 2px;
+	margin-right: 5px;
+}
+
+.checkbox-on {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20width%3D%2216%22%20height%3D%2216%22%20fill%3D%22%2358A9D7%22%2F%3E%0A%3Cpath%20d%3D%22M6.71429%2012.2852L14%204.9995L12.7143%203.71436L6.71429%209.71378L3.28571%206.2831L2%207.57092L6.71429%2012.2852Z%22%20fill%3D%22white%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+
+.checkbox-off {
+	background-image: url("data:image/svg+xml;charset=UTF-8,%3Csvg%20width%3D%2216%22%20height%3D%2216%22%20viewBox%3D%220%200%2016%2016%22%20fill%3D%22none%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%3E%0A%3Crect%20x%3D%220.75%22%20y%3D%220.75%22%20width%3D%2214.5%22%20height%3D%2214.5%22%20fill%3D%22white%22%20stroke%3D%22%2336352F%22%20stroke-width%3D%221.5%22%2F%3E%0A%3C%2Fsvg%3E");
+}
+	
+</style></head><body><article id="5dbbe630-9fcf-40ed-a5c5-9e9178e64c34" class="page sans"><header><h1 class="page-title">Canada Moist Talkers 🗣</h1></header><div class="page-body"><p id="3a228528-ff96-4cd0-9234-e0a2778097b6" class="block-color-red"><em><strong>Resource Sheet [Last updated Season 5]</strong></em></p><div id="581c5e4c-d877-4760-887a-2ecfe5f58007" class="column-list"><div id="cb184bf8-4d84-4396-8f9a-9a0010e8c443" style="width:18.75%" class="column"><figure id="53a67c82-0603-4603-a7ba-c97f3c1017a5" class="image"><a href="Canada%20Moist%20Talkers%20%F0%9F%97%A3%2053a67c8206034603a7bac97f3c1017a5/moisttalkers.png"><img style="width:192px" src="Canada%20Moist%20Talkers%20%F0%9F%97%A3%2053a67c8206034603a7bac97f3c1017a5/moisttalkers.png"/></a><figcaption>logo by <a href="https://twitter.com/longhairQ">Q</a></figcaption></figure></div><div id="0bc575ac-6865-454a-a2c0-acf36b4e17f0" style="width:81.25%" class="column"><p id="f45cd5d0-d5e4-40c6-be67-881d91713836" class="">We have 2 Community Values:</p><blockquote id="f4460e20-3b40-4b78-9878-c201d8c3b989" class="">1. Be Kind
+2. Be Gross</blockquote><p id="59e83ae1-854d-4fb8-9bb8-f6d808dc732c" class="">
+</p></div></div><figure class="block-color-purple_background callout" style="white-space:pre-wrap;display:flex" id="c8d6005f-721a-45a0-bfdb-46e8c2d3da50"><div style="font-size:1.5em"><img class="icon" src="Canada%20Moist%20Talkers%20%F0%9F%97%A3%2053a67c8206034603a7bac97f3c1017a5/discord.png"/></div><div style="width:100%"><strong><a href="https://discord.gg/3uFgJhu">Blaseball Official Discord</a></strong><strong>
+</strong>To join the Moist Talkers channel, <a href="https://support.discord.com/hc/en-us/articles/360041139231-Adding-Emojis-and-Reactions">react</a> with the 🗣 emoji in the <em>#choose-your-team</em> channel.</div></figure><figure class="block-color-orange_background callout" style="white-space:pre-wrap;display:flex" id="5880c842-dff3-42a9-823b-fe5ac66c4ced"><div style="font-size:1.5em"><img class="icon" src="Canada%20Moist%20Talkers%20%F0%9F%97%A3%2053a67c8206034603a7bac97f3c1017a5/iconfinder_social-reddit-square2_771381.png"/></div><div style="width:100%"><a href="https://www.reddit.com/r/CanadaMoistTalkers/"><strong>Moist Talkers Subreddit</strong></a></div></figure><div id="e90b78d4-67d2-4007-a780-cf788534d658" class="column-list"><div id="aa4ac70e-61e5-4378-9a35-95a8a8ed58a0" style="width:62.5%" class="column"><figure class="block-color-blue_background callout" style="white-space:pre-wrap;display:flex" id="72341b92-e7ed-420c-876d-14e4b6592c49"><div style="font-size:1.5em"><span class="icon">📘</span></div><div style="width:100%"><strong>Blaseball Wiki</strong>
+Make sure to read the <a href="https://blaseball.fandom.com/wiki/Style_Guide">style guide</a> before contributing to the wiki.
+<a href="https://blaseball.fandom.com/wiki/Canada_Moist_Talkers">Team Page</a> 🗣
+<a href="https://blaseball.fandom.com/wiki/Canada_Moist_Talkers/Fan_Culture">Fan Culture 📣</a><strong>
+</strong><a href="https://blaseball.fandom.com/wiki/Gallery_of_Tlopps_Cards#Canada_Moist_Talkers_.F0.9F.97.A3.EF.B8.8F">Tlopps Cards 🃏</a></div></figure></div><div id="a739c32f-7053-4a76-86cc-04be0c1b0f88" style="width:37.5%" class="column"><figure id="205424a7-e6ee-4fd2-b717-e09248ebb7db" class="image"><a href="Canada%20Moist%20Talkers%20%F0%9F%97%A3%2053a67c8206034603a7bac97f3c1017a5/Untitled.png"><img style="width:435px" src="Canada%20Moist%20Talkers%20%F0%9F%97%A3%2053a67c8206034603a7bac97f3c1017a5/Untitled.png"/></a><figcaption>Source: <a href="https://discordapp.com/channels/706414667958059078/737904813463044187/749052812566200391">Blaseball Discord</a></figcaption></figure><p id="8497d806-66b1-4212-80be-63f3e0851507" class="">
+</p></div></div><figure class="block-color-pink_background callout" style="white-space:pre-wrap;display:flex" id="5cbf0fd1-413d-4658-819e-eb91a82655d7"><div style="font-size:1.5em"><span class="icon">🧢</span></div><div style="width:100%"><strong><a href="https://blaseballcares.myshopify.com/">Merch Store</a></strong><strong>
+</strong>Support Charity!</div></figure><figure class="block-color-gray_background callout" style="white-space:pre-wrap;display:flex" id="530da1e4-b61f-413b-9e92-079ce55a99d2"><div style="font-size:1.5em"><span class="icon">⚾</span></div><div style="width:100%"><strong>Team Stats
+</strong>Theres also forbidden knowledge, but thats not for here.
+<a href="https://www.blaseball.com/team/eb67ae5e-c4bf-46ca-bbbc-425cd34182ff">Blaseball.com</a>
+<a href="https://dev.blaseball-reference.com/teams/canada-moist-talkers">Blaseball Reference</a>
+<a href="http://blaseball.dlareau.com/">DLareau&#x27;s Tools</a></div></figure><figure class="block-color-gray_background callout" style="white-space:pre-wrap;display:flex" id="938fb82b-d80f-4af0-b627-431ccc90f8b4"><div style="font-size:1.5em"><span class="icon">🖼️</span></div><div style="width:100%"><strong><a href="https://blase.booru.org/index.php">Blaseball Booru</a></strong>
+Work in progress. The posts were bot-trawled from the <em>#fanworks</em> discord channel, curation is further needed.</div></figure><figure class="block-color-gray_background callout" style="white-space:pre-wrap;display:flex" id="91382e09-fc29-476c-93dd-a767518f20fe"><div style="font-size:1.5em"><img class="icon" src="Canada%20Moist%20Talkers%20%F0%9F%97%A3%2053a67c8206034603a7bac97f3c1017a5/twitter.png"/></div><div style="width:100%"><strong>RP Twitter</strong>
+<a href="https://twitter.com/MoistTalkers">Unofficial Team Account</a>
+<a href="https://twitter.com/MoistTalkerZiwa">Ziwa Mueller</a>
+<a href="https://twitter.com/EugeniaGarbage">Eugenia Garbage</a>
+<a href="https://twitter.com/RichmondHarris4">Richmond Harrison</a>
+<a href="https://twitter.com/DoctorMooney">Mooney Doctor</a>
+<a href="https://twitter.com/SoggyGreer">Greer Lott</a></div></figure><figure class="block-color-gray_background callout" style="white-space:pre-wrap;display:flex" id="30e1c7ed-e261-45bf-ba32-8ab3f32ba23b"><div style="font-size:1.5em"><span class="icon">🎙️</span></div><div style="width:100%"><strong>Audio
+</strong><a href="https://temperateseamonkeys.bandcamp.com/releases">Temperate Sea Monkeys</a>
+<a href="https://soundcloud.com/moistmouth">MoistMouth</a></div></figure><figure class="block-color-gray_background callout" style="white-space:pre-wrap;display:flex" id="54eeb0d5-d0c5-4a7b-8e93-dd9b5628698f"><div style="font-size:1.5em"><span class="icon">🖋️</span></div><div style="width:100%"><strong>Fanfiction
+</strong><a href="https://archiveofourown.org/works/25791832/chapters/62645905">My Roommate is a Blaseball Player</a></div></figure><figure class="block-color-gray_background callout" style="white-space:pre-wrap;display:flex" id="6faee7c0-9efe-4bcb-abfd-255265b501a7"><div style="font-size:1.5em"><span class="icon">🖌️</span></div><div style="width:100%"><strong>Fanartists</strong>
+<a href="https://twitter.com/longhairQ">Q</a> (Created the team logo)
+<a href="https://twitter.com/Spiral_Joe">Spiral Joe</a> (Created the Team <em>Tlopps</em> Card<em> </em>template)
+<a href="https://twitter.com/mikeharron">Mike</a> (<em>Tlopps </em>Card Artist)
+<a href="https://twitter.com/avery_helm">Aves</a> (you might recognise her art from the <a href="https://twitter.com/Polygon/status/1291432759018299392">Polygon article</a>!)
+<a href="https://twitter.com/Greetomatic">Mashley</a> 
+<a href="https://twitter.com/MackinItHappen">Nicole</a> (Merch organizer)</div></figure><p id="b616cc59-2909-4a04-8480-bb086ae7b8a2" class="">
+</p></div></article></body></html>
