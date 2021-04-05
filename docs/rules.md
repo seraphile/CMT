@@ -49,6 +49,7 @@ All our voting is recorded & coordinated in a google sheet. You can find the she
 If there is a clear leader in the *blessing/decrees* preference section, we’ll begin propaganda for that option so we can communicate to the discord-external community (usually via twitter). Otherwise, representatives will use the general consensus from *blessing/decrees preference* section to set voting goals on the *Blessing Vote Entry* page. There members who wish to engage in team coordination can find out where to vote. Even if you don’t vote for a voting goal, please record your votes.
 ### Wills
 So far our current system has worked well, up until Season 12 where Wills were introduced.  Wills are far more divisive & higher permutation than blessings & decrees. Our main rule for Wills is **DON’T VOTE UNTIL SATURDAY**. Voting before Saturday can lead to cases of accidental necromancy, or infusing a player now no longer on our team. Wills are only “safe” to vote on after post-season has ended, when players can no longer be affected by events. 
+
 The team representatives are still figuring out how to handle Wills-course, please bear with us.
 ## Content Warnings & Cursed Content
 You can spoiler text by with the  following formatting:
