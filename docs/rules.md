@@ -1,7 +1,9 @@
-Canada Moist Talker Rules
-We have 2 Community Values. 1. Be Kind and 2. Be Gross
+# Canada Moist Talker Rules
+We have 2 Community Values. 
+> 1. Be Kind and 
+> 2. Be Gross
 
-Team Structure
+#Team Structure
 Each team on discord has their own way of managing things.  We have permanent residence representatives. Team Representatives (often “reps” for short) fulfil the following roles:
     • Being a point of contact representing the Team, for Keepers & Other Teams
     • Custodial responsibilities, such as pinning, posting news
