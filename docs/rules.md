@@ -84,7 +84,7 @@ Propaganda is images related to voting, teams & events posted in **#community-bi
 ### Pronouns
 You are not obliged to put your pronouns in your name, but it makes discord a more welcoming space for those who require to do so.
 ###  Visitors
-Our teams policy to visitors by default is `Open✅`. You can check other teams’ visiting policies here: https://teams.beefox.xyz/
+Our teams policy to visitors by default is `Open✅`. You can check other teams’ visiting policies here: <https://teams.beefox.xyz/>
 ### Sundaes🍨
 * Sundaes are a legit way to play the game that is Blaseball. Don’t criticize/moralize other team members for using them.
 * Conversely, do not do a song & dance about your payouts for Sundaes. Remember, Be Kind.
