@@ -27,7 +27,7 @@ Our four channels are:
 ## #⚪The-Daily-Spews📰
 Our news channel. Make sure to read to keep up with current events & team organization.
 ### Temperature Checks
-Sometimes the representatives will do quick temperature checks in **#📰⚪the-daily-spews** to get a feel for general team vibes on a topic. Results of temperature checks are not set in stone, but they help representatives make snap decisions, such as e.g. temporarily closing our channels after a player is incinerated.
+Sometimes the representatives will do quick temperature checks in **#⚪the-daily-spews📰** to get a feel for general team vibes on a topic. Results of temperature checks are not set in stone, but they help representatives make snap decisions, such as e.g. temporarily closing our channels after a player is incinerated.
 ## #⚪Moist-Glallery
 A channel dedicated to art & creative content only.
 * Post Creative content **#⚪moisttalkers-glallery**. Don't be afraid to post it in the main channel as well, this channel exist for Archival purposes. Tag your art so people can search the channel more easily, e.g. [Richmond] or [Ziwa & Eugenia].
@@ -45,7 +45,7 @@ Every team has a slightly different approach to organised voting. Ours can be su
 If a conversation about voting becomes too circular or heated, the representatives will shut it down.
 
 ### The Sheet
-All our voting is recorded & coordinated in a google sheet. You can find the sheet by posting `+moistvotes` in **#orb-corner**. One of the most important parts of the sheet is the *blessing/decrees preference* section. It gives everyone a chance to voice their opinions without the topic of voting dominating chat.
+All our voting is recorded & coordinated in a google sheet. You can find the sheet by posting `+moistvotes` in **#⚪orb-corner**. One of the most important parts of the sheet is the *blessing/decrees preference* section. It gives everyone a chance to voice their opinions without the topic of voting dominating chat.
 ### Curated Democracy
 If there is a clear leader in the *blessing/decrees* preference section, we’ll begin propaganda for that option so we can communicate to the discord-external community (usually via twitter). Otherwise, representatives will use the general consensus from *blessing/decrees preference* section to set voting goals on the *Blessing Vote Entry* page. There members who wish to engage in team coordination can find out where to vote. Even if you don’t vote for a voting goal, please record your votes.
 ### Wills
