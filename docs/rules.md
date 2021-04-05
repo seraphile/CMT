@@ -72,6 +72,7 @@ Moist Talkers are the #1 exporter of food crimes, until the Wild Wings Legal Dep
 * Spoiler your images of food in general, and let people know there's food content underneath with a Content Warning. Either cw: food or cw: food crime
 * Food crimes that are food being mixed, combined or used in unconventional ways? good ✅
 * Food crimes that are unhygienic, off or spoiled, has something growing on it? bad 🚫
+
 ## Propaganda
 Propaganda is images related to voting, teams & events posted in **#community-billboard**.
 * DO NOT appropriate IRL facist/bigoted propaganda/imagery for your propaganda.
