@@ -41,6 +41,7 @@ Sometimes the team representatives will ask for moratorium or “pause” on cer
 
 ## Voting
 Every team has a slightly different approach to organised voting. Ours can be summarized as “curated democracy”. We encourage people to vote with their hearts, as long as they *record their votes in the sheet* 👁✍
+
 If a conversation about voting becomes too circular or heated, the representatives will shut it down.
 
 ### The Sheet
