@@ -52,9 +52,13 @@ So far our current system has worked well, up until Season 12 where Wills were i
 The team representatives are still figuring out how to handle Wills-course, please bear with us.
 ## Content Warnings & Cursed Content
 You can spoiler text by with the  following formatting:
+
 `|| Spoiler Text ||`
+
 If you are on mobile, the Blaseball Discord has a bot that lets you spoiler images by starting your message with: 
+
 `-spoiler`
+
 Make sure to spoiler text & images appropriately, and always let people know what you are issuing a warning about. For example: *cw: eyes*
 ### Cursed Content
 Moist Talkers have a reputation for being into cursed content. Here's some guidelines so cursed content can be a safe time for everyone.
