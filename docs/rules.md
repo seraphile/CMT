@@ -3,26 +3,29 @@ We have 2 Community Values.
 > 1. Be Kind and 
 > 2. Be Gross
 
-#Team Structure
+# Team Structure
 Each team on discord has their own way of managing things.  We have permanent residence representatives. Team Representatives (often “reps” for short) fulfil the following roles:
-    • Being a point of contact representing the Team, for Keepers & Other Teams
-    • Custodial responsibilities, such as pinning, posting news
-    • Organizing Group Voting
-    • Deleting inappropriate posts on the spot
-    • Summoning the Keepers
+* Being a point of contact representing the Team, for Keepers & Other Teams
+* Custodial responsibilities, such as pinning, posting news
+* Organizing Group Voting
+* Deleting inappropriate posts on the spot
+* Summoning the Keepers
 If you have a problem with a Representatives, or any other discord user, utilize mod mail by DM-ing: 
+```
 !MODMAIL_KEEPERS📮#0864 
-Your Active Representatives are pigeons#2351, Sera#3684, Zakaro#5951, thevdude#6881, Paranundrox#6397& Squeeq#5185.
+````
+Your Active Representatives are `pigeons#2351`, `Sera#3684`, `Zakaro#5951`, `thevdude#6881`, `Paranundrox#6397` & `Squeeq#5185`.
+
 Our four channels are:
-    • #📰the-daily-spews a news/announcement board channel
-    • #orb-corner or whatever joke its renamed for, general channel
-    • #gleek-seating channel for live watching games
-    • #moist-glallery an archival art channel
-#📰The-Daily-Spews
+* #📰the-daily-spews a news/announcement board channel
+* #orb-corner or whatever joke its renamed for, general channel
+* #gleek-seating channel for live watching games
+*  #moist-glallery an archival art channel
+# #📰The-Daily-Spews
 Our news channel. Make sure to read to keep up with current events & team organization.
-Temperature Checks
+## Temperature Checks
 Sometimes the representatives will do quick temperature checks in #the-daily-spews to get a feel for general team vibes on a topic. Results of temperature checks are not set in stone, but they help representatives make snap decisions, such as e.g. temporarily closing our channels after a player is incinerated.
-#Moist-Glallery
+# #Moist-Glallery
 A channel dedicated to art & creative content only.
     • Post Creative content #moisttalkers-glallery. Don't be afraid to post it in the main channel as well, this channel exist for Archival purposes. Tag your art so people can search the channel more easily, e.g. [Richmond] or [Ziwa & Eugenia].
     • No chatter in #moisttalkers-glallery, the other we have two other channels for people talking moistly. Artists, feel free to post art in #moisttalkers-glallery & the main channel so people can gush over it there. Incidental chatter will be deleted by the representatives.
