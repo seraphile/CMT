@@ -29,8 +29,8 @@ Our news channel. Make sure to read to keep up with current events & team organi
 Sometimes the representatives will do quick temperature checks in **#📰the-daily-spews** to get a feel for general team vibes on a topic. Results of temperature checks are not set in stone, but they help representatives make snap decisions, such as e.g. temporarily closing our channels after a player is incinerated.
 ## #Moist-Glallery
 A channel dedicated to art & creative content only.
-* Post Creative content #moisttalkers-glallery. Don't be afraid to post it in the main channel as well, this channel exist for Archival purposes. Tag your art so people can search the channel more easily, e.g. [Richmond] or [Ziwa & Eugenia].
-* No chatter in #moisttalkers-glallery, the other we have two other channels for people talking moistly. Artists, feel free to post art in #moisttalkers-glallery & the main channel so people can gush over it there. Incidental chatter will be deleted by the representatives.
+* Post Creative content **#moisttalkers-glallery**. Don't be afraid to post it in the main channel as well, this channel exist for Archival purposes. Tag your art so people can search the channel more easily, e.g. [Richmond] or [Ziwa & Eugenia].
+* No chatter in **#moisttalkers-glallery**, the other we have two other channels for people talking moistly. Artists, feel free to post art in #moisttalkers-glallery & the main channel so people can gush over it there. Incidental chatter will be deleted by the representatives.
 * WIPs & Sketches live in #moisttalkers-glallery too! Please post your sketches you might not necessarily be confident to post in #fanwork in #moisttalkers-glallery, we think they are beautiful and still want to see them. However try to refrain from spamming WIPs, if you want show us every step of the process maybe make a process GIF/video!
 
 ## Pausing Topics ⏸
