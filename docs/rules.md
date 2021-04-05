@@ -1,3 +1,8 @@
+---
+layout: post
+title: Moist Talker Rules
+---
+
 # Canada Moist Talker Rules
 We have 2 Community Values. 
 > 1. Be Kind and 
