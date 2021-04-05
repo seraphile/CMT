@@ -1,5 +1,5 @@
 
-# Canada Moist Talker Rules
+# Discord Rules
 We have 2 Community Values. 
 > 1. Be Kind and 
 > 2. Be Gross
