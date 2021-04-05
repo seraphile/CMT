@@ -87,5 +87,6 @@ Our teams policy to visitors by default is `Open✅`. You can check other teams�
 ### Sundaes🍨
 * Sundaes are a legit way to play the game that is Blaseball. Don’t criticize/moralize other team members for using them.
 * Conversely, do not do a song & dance about your payouts for Sundaes. Remember, Be Kind.
+
 ### Swoomba
 The Swoomba is a bot that deletes swear words. We have a couple of extra words that it considers “naughty words” in our channel. If your message gets randomly deleted for mentioning a certain webcomic, that’s why.
