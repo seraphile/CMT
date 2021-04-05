@@ -19,20 +19,20 @@ If you have a problem with a Representatives, or any other discord user, utilize
 Your Active Representatives are `pigeons#2351`, `Sera#3684`, `Zakaro#5951`, `thevdude#6881`, `Paranundrox#6397` & `Squeeq#5185`.
 
 Our four channels are:
-* **#📰the-daily-spews** a news/announcement board channel
-* **#orb-corner** or whatever joke its renamed for, general channel
-* **#gleek-seating** channel for live watching games
-* **#moist-glallery** an archival art channel
+* **#⚪the-daily-spews📰** a news/announcement board channel
+* **#⚪orb-corner** or whatever joke its renamed for, general channel
+* **#⚪gleek-seating** channel for live watching games
+* **#⚪moist-glallery** an archival art channel
 
-## #📰The-Daily-Spews
+## #⚪The-Daily-Spews📰
 Our news channel. Make sure to read to keep up with current events & team organization.
 ### Temperature Checks
-Sometimes the representatives will do quick temperature checks in **#📰the-daily-spews** to get a feel for general team vibes on a topic. Results of temperature checks are not set in stone, but they help representatives make snap decisions, such as e.g. temporarily closing our channels after a player is incinerated.
-## #Moist-Glallery
+Sometimes the representatives will do quick temperature checks in **#📰⚪the-daily-spews** to get a feel for general team vibes on a topic. Results of temperature checks are not set in stone, but they help representatives make snap decisions, such as e.g. temporarily closing our channels after a player is incinerated.
+## #⚪Moist-Glallery
 A channel dedicated to art & creative content only.
-* Post Creative content **#moisttalkers-glallery**. Don't be afraid to post it in the main channel as well, this channel exist for Archival purposes. Tag your art so people can search the channel more easily, e.g. [Richmond] or [Ziwa & Eugenia].
-* No chatter in **#moisttalkers-glallery**, the other we have two other channels for people talking moistly. Artists, feel free to post art in **#moisttalkers-glallery** & the main channel so people can gush over it there. Incidental chatter will be deleted by the representatives.
-* WIPs & Sketches live in **#moisttalkers-glallery** too! Please post your sketches you might not necessarily be confident to post in **#fanwork** in **#moisttalkers-glallery**, we think they are beautiful and still want to see them. However try to refrain from spamming WIPs, if you want show us every step of the process maybe make a process GIF/video!
+* Post Creative content **#⚪moisttalkers-glallery**. Don't be afraid to post it in the main channel as well, this channel exist for Archival purposes. Tag your art so people can search the channel more easily, e.g. [Richmond] or [Ziwa & Eugenia].
+* No chatter in **#⚪moisttalkers-glallery**, the other we have two other channels for people talking moistly. Artists, feel free to post art in **#⚪moisttalkers-glallery** & the main channel so people can gush over it there. Incidental chatter will be deleted by the representatives.
+* WIPs & Sketches live in **#⚪moisttalkers-glallery** too! Please post your sketches you might not necessarily be confident to post in **#fanwork** in **#⚪moisttalkers-glallery**, we think they are beautiful and still want to see them. However try to refrain from spamming WIPs, if you want show us every step of the process maybe make a process GIF/video!
 
 ## Pausing Topics ⏸
 🚧[Under construction]🚧
@@ -82,7 +82,7 @@ Propaganda is images related to voting, teams & events posted in **#community-bi
 
 ## Misc.
 ### Pronouns
-You are not obliged to put your pronouns in your name, but it makes discord a more welcoming space for those who require to do so.
+You are not obliged to put your pronouns in your name, but we encourage doing so to make discord a more welcoming space.
 ###  Visitors
 Our teams policy to visitors by default is `Open✅`. You can check other teams’ visiting policies here: <https://teams.beefox.xyz/>
 ### Sundaes🍨
