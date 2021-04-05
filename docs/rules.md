@@ -35,7 +35,8 @@ A channel dedicated to art & creative content only.
 * WIPs & Sketches live in **#moisttalkers-glallery** too! Please post your sketches you might not necessarily be confident to post in **#fanwork** in **#moisttalkers-glallery**, we think they are beautiful and still want to see them. However try to refrain from spamming WIPs, if you want show us every step of the process maybe make a process GIF/video!
 
 ## Pausing Topics ⏸
-🚧[Under construction]🚧
+🚧*[Under construction]*🚧
+
 Sometimes the team representatives will ask for moratorium or “pause” on certain topics. Usually this is when something catastrophic has happened to the team and we can’t deal with voting discourse & incineration grief happening simultaneously.
 
 ## Voting
