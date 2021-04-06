@@ -5,25 +5,10 @@ a {
 h1, h2, h3, h4, h5, h6 {
   color: #035597;
 }
-strong, .main-content .anchor-heading svg {
+.main-content .anchor-heading svg {
     color: #ed1c24;
 }
-.side-bar {
-    color: #e5f4f5;
-    background-color: #035597;
-}
-.site-title {
-    color: #e5f4f5;
-}
 
-.nav-list-link {
-      &:hover,
-      &.active {
-        background-image: linear-gradient(
-          -90deg,
-          rgba(59, 151, 211, 1) 0%,
-          rgba(59, 151, 211, 0.8) 80%,
-          rgba(59, 151, 211, 0) 100%
-        );
-      }
-    }
+$sidebar-color: $blue-200;
+$border-color: $blue-200;
+$feedback-color: darken($sidebar-color, 50%);
