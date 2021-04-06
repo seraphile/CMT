@@ -1,12 +1,3 @@
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
-
 # Discord Rules
 We have 2 Community Values. 
 > 1. Be Kind and 
