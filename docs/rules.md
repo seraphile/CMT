@@ -1,5 +1,8 @@
 <head>
 <style>
+ view {
+  display: none;
+  }
 </style>
 </head>
 
