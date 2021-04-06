@@ -2,6 +2,7 @@
 <style>
 </style>
 </head>
+
 # Discord Rules
 We have 2 Community Values. 
 > 1. Be Kind and 
