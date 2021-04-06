@@ -5,9 +5,12 @@ a {
 h1, h2, h3, h4, h5, h6 {
   color: #035597;
 }
-.main-content .anchor-heading svg, site-button {
+.main-content .anchor-heading svg {
     color: #ed1c24;
 }
 .main-header {
     display: none !important;
+}
+.icon {
+    color: #ed1c24 !important;
 }
