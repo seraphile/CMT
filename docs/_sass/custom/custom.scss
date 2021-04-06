@@ -1,14 +1,17 @@
-strong {
+a {
   color: #3B97D3;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color: #035597;
 }
-.main-content .anchor-heading svg {
+strong, .main-content .anchor-heading svg {
     color: #ed1c24;
 }
 .side-bar {
     color: #e5f4f5;
     background-color: #035597;
+}
+.site-title {
+    color: #e5f4f5;
 }
