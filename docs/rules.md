@@ -1,3 +1,4 @@
+{:toc}
 
 # Discord Rules
 We have 2 Community Values. 
