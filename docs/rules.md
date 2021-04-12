@@ -1,3 +1,8 @@
+# Discord Rules
+We have 2 Community Values. 
+> 1. Be Kind and 
+> 2. Be Gross
+
 <details open markdown="block">
   <summary>
     Table of contents
@@ -6,11 +11,6 @@
 1. TOC
 {:toc}
 </details>
-
-# Discord Rules
-We have 2 Community Values. 
-> 1. Be Kind and 
-> 2. Be Gross
 
 ## Team Structure
 Each team on discord has their own way of managing things.  We have permanent residence representatives. Team Representatives (often “reps” for short) fulfil the following roles:
