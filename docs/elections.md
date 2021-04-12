@@ -46,6 +46,8 @@ In the season 7 elections, James Mora was rerolled 3 times, and gained only half
 
 Most of our players are quite good, so when plunder sends back a random player it's likely to lose us a good player. Also plunder can interact with player statuses like [REDACTED] in weird ways.
 
+We also like most of our players a lot, and losing a player to plunder unexpectedly is likely to upset at least a few people.
+
 ### Examples
 
 #### York Silk, season 14
@@ -63,18 +65,6 @@ Plundering these [REDACTED] players didn't work, but it did give them the Unstab
 #### Sutton Picklestein, season 13
 
 The Flowers plundered Picklestein from the Hall of Flames in the season 13 election. This gave Picklestein the Returned mod, which dragged them back into the hall nine seconds later.
-
-#### York Silk, season 15
-
-We plundered York Silk and lost Fish Summer.
-
-On the strategy side, York is worse than Fish at batting and baserunning, and about the same at defense. York has 4.7 batting stars, 1.1 baserunning stars, and 2.2 defense stars. Fish has 5.4 batting stars, 3.4 baserunning stars, and 2.1 defense stars.
-
-Also, York still has the Returned mod, which means he may randomly go back to the hall at the end of any season.
-
-In terms of lore, the Talkers watched York die, it is going to be weird for them to have to deal with zombie York who marks players for redaction. Also the Crabs were doing some neat York lore, and it would have been fun to see what they'd have done given more time.
-
-Also Fish was great. They're a shark-headed thembo who bites the bottom half off their jerseys. We liked Fish a lot. We will miss them.
 
 ## Early voting is very risky
 
