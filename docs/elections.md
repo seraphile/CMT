@@ -2,7 +2,7 @@
 layout: page
 ---
 
-# Election advice
+# Election Advice
 
 Blaseball is complicated. Elections can have effects that are not at all obvious. Here are some of the more subtle things you might want to consider when voting.
 
