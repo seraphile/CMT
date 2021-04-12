@@ -26,7 +26,7 @@ Betsy Trombone had three stars in pitching in season 14. She also had the second
 
 #### Beck Whitney
 
-In season 14, Beck Whitney had six stars in batting and a batting average of 0.234. For comparison, her teammate Francisca Sasquatch had four batting stars and a batting average of 0.304.
+In season 14, Beck Whitney had six stars in batting and a batting average of 0.234. This means she got on base 23.4% of the times she batted, which is pretty low. For comparison, her teammate Francisca Sasquatch had four batting stars and a batting average of 0.304, which is much better.
 
 ## Rerolls are very risky
 
