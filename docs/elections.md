@@ -23,7 +23,8 @@ There are players with few stars who are actually quite good, and players with l
 #### Betsy Trombone
 
 Betsy Trombone had three stars in pitching in season 14. She also had the second highest strike percentage in the league.
-Beck Whitney
+
+#### Beck Whitney
 
 In season 14, Beck Whitney had six stars in batting and a batting average of 0.234. For comparison, her teammate Francisca Sasquatch had four batting stars and a batting average of 0.304.
 
