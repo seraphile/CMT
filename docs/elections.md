@@ -16,7 +16,7 @@ Some of this advice refers to player attributes, which can be seen on the site w
 
 ## Stars lie
 
-There are players with few stars who are actually quite good, and players with lots of stars who aren't that great. Better ways to learn how good a player is include looking at their record on Blaseball Reference, looking at their hidden player attributes, and asking in Discord.
+There are players with few stars who are actually quite good, and players with lots of stars who aren't that great. Better ways to learn how good a player is include looking at their record on [Blaseball Reference](https://blaseball-reference.com), looking at their hidden [player attributes](https://www.blaseball.wiki/w/Player_Attributes), and asking in Discord.
 
 ### Examples
 
