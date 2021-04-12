@@ -6,14 +6,11 @@ layout: page
 
 Blaseball is complicated. Elections can have effects that are not at all obvious. Here are some of the more subtle things you might want to consider when voting.
 
-<details open markdown="block">
-  <summary>
-    Table of contents
-  </summary>
-  {: .text-delta }
-1. TOC
-{:toc}
-</details>
+* [Stars lie](#stars-lie)
+* [Rerolls are very risky](#rerolls-are-very-risky)
+* [Plunder is very risky](#plunder-is-very-risky)
+* [Early voting is very risky](#early-voting-is-very-risky)
+* [Will can clash](#wills-can-clash)
 
 ## Stars lie
 
