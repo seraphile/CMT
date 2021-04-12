@@ -6,6 +6,8 @@ layout: page
 
 Blaseball is complicated. Elections can have effects that are not at all obvious. Here are some of the more subtle things you might want to consider when voting.
 
+Some of this advice refers to player attributes, which can be seen on the site with an Apple. An Apple will also let you see what percent of our Will votes are for each Will when you select the Will and open the voting dialog for it. Alternately, [SIBR](https://sibr.dev) has made tools that will let you view player attributes and Will vote standings without an Apple, though if you aren't careful around SIBR's stuff you may also see spoilers.
+
 * [Stars lie](#stars-lie)
 * [Rerolls are very risky](#rerolls-are-very-risky)
 * [Plunder is very risky](#plunder-is-very-risky)
@@ -14,7 +16,7 @@ Blaseball is complicated. Elections can have effects that are not at all obvious
 
 ## Stars lie
 
-There are players with few stars who are actually quite good, and players with lots of stars who aren't that great. Better ways to learn how good a player is include looking at their record on Blaseball Reference, looking at their hidden player attributes, and asking in Discord.
+There are players with few stars who are actually quite good, and players with lots of stars who aren't that great. Better ways to learn how good a player is include looking at their record on [Blaseball Reference](https://blaseball-reference.com), looking at their hidden [player attributes](https://www.blaseball.wiki/w/Player_Attributes), and asking in Discord.
 
 ### Examples
 
@@ -24,7 +26,7 @@ Betsy Trombone had three stars in pitching in season 14. She also had the second
 
 #### Beck Whitney
 
-In season 14, Beck Whitney had six stars in batting and a batting average of 0.234. For comparison, her teammate Francisca Sasquatch had four batting stars and a batting average of 0.304.
+In season 14, Beck Whitney had six stars in batting and a batting average of 0.234. This means she got on base 23.4% of the times she batted, which is pretty low. For comparison, her teammate Francisca Sasquatch had four batting stars and a batting average of 0.304, which is much better.
 
 ## Rerolls are very risky
 
