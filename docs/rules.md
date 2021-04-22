@@ -63,7 +63,7 @@ The team representatives are still figuring out how to handle Wills-course, plea
 ## Content Warnings & Cursed Content
 You can spoiler text by with the  following formatting:
 
-`|| Spoiler Text ||`
+`||` Spoiler Goes Here `||`
 
 If you are on mobile, the Blaseball Discord has a bot that lets you spoiler images by starting your message with: 
 
