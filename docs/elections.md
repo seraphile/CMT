@@ -12,11 +12,13 @@ Some of this advice refers to player attributes, which can be seen on the site w
 * [Rerolls are very risky](#rerolls-are-very-risky)
 * [Plunder is very risky](#plunder-is-very-risky)
 * [Early voting is very risky](#early-voting-is-very-risky)
-* [Will can clash](#wills-can-clash)
+* [Wills can clash](#wills-can-clash)
 
 ## Stars lie
 
 There are players with few stars who are actually quite good, and players with lots of stars who aren't that great. Better ways to learn how good a player is include looking at their record on [Blaseball Reference](https://blaseball-reference.com), looking at their hidden [player attributes](https://www.blaseball.wiki/w/Player_Attributes), and asking in Discord.
+
+Also, players with the Attractor mod have fake stars. Most players' stars are based on their attributes, but give too much weight to attributes that don't affect performance much. Attractors have extra stars that have nothing to do with their attributes at all. Their performance matches their attributes, not their stars.
 
 ### Examples
 
@@ -27,6 +29,10 @@ Betsy Trombone had three stars in pitching in season 14. She also had the second
 #### Beck Whitney
 
 In season 14, Beck Whitney had six stars in batting and a batting average of 0.234. This means she got on base 23.4% of the times she batted, which is pretty low. For comparison, her teammate Francisca Sasquatch had four batting stars and a batting average of 0.304, which is much better.
+
+#### Brisket Friendo
+
+Thanks to the Attractor mod, Brisket Friendo has 3.8 batting stars. If they weren't an Attractor, they'd have 1.9 batting stars. As of day 62 of season 17, their batting average is 0.144, which is far more typical of a 1.9 star batter than a 3.8 star batter.
 
 ## Rerolls are very risky
 
