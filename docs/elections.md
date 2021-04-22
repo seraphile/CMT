@@ -12,11 +12,13 @@ Some of this advice refers to player attributes, which can be seen on the site w
 * [Rerolls are very risky](#rerolls-are-very-risky)
 * [Plunder is very risky](#plunder-is-very-risky)
 * [Early voting is very risky](#early-voting-is-very-risky)
-* [Will can clash](#wills-can-clash)
+* [Wills can clash](#wills-can-clash)
 
 ## Stars lie
 
 There are players with few stars who are actually quite good, and players with lots of stars who aren't that great. Better ways to learn how good a player is include looking at their record on [Blaseball Reference](https://blaseball-reference.com), looking at their hidden [player attributes](https://www.blaseball.wiki/w/Player_Attributes), and asking in Discord.
+
+Also, players with the Attractor mod have fake stars. Most players' stars are based on their attributes, but give too much weight to attributes that don't affect performance much. Attractors have extra stars that have nothing to do with their attributes at all. Their performance matches their attributes, not their stars.
 
 ### Examples
 
