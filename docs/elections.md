@@ -30,6 +30,10 @@ Betsy Trombone had three stars in pitching in season 14. She also had the second
 
 In season 14, Beck Whitney had six stars in batting and a batting average of 0.234. This means she got on base 23.4% of the times she batted, which is pretty low. For comparison, her teammate Francisca Sasquatch had four batting stars and a batting average of 0.304, which is much better.
 
+#### Brisket Friendo
+
+Thanks to the Attractor mod, Brisket Friendo has 3.8 batting stars. If they weren't an Attractor, they'd have 1.9 batting stars. As of day 62 of season 17, their batting average is 0.144, which is far more typical of a 1.9 star batter than a 3.8 star batter.
+
 ## Rerolls are very risky
 
 The stats of randomized or alternated players are generally similar to those of newly-hatched players. All our players are already better than most newly-hatched players.
