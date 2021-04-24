@@ -1,4 +1,8 @@
-# Moist Talkers S17 Election Plans
+# Moist Talkers S17 Voting Guide
+
+These are the things that Discord thinks would be good. They're just suggestions; you can always vote with your heart instead if none of these sound good to you!
+
+If you want to ask us to explain in more detail, or if you'd like to have input in future voting guides, then come [join us on Discord](https://discord.gg/3uFgJhu). Follow the instructions in the #choose-your-team channel when you get there.
 
 ## Wills
 
