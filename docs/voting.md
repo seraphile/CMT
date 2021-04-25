@@ -34,4 +34,6 @@ If we get the Jersey Supply Run, none of our players will have an available slot
 
 ## Decrees
 
-They all seem fine, vote for any of them!
+They all seem fine, vote with your heart!
+
+If you don't have a favourite, consider Smithy. Items are generally pretty good, it'd be nice if they lasted longer.
