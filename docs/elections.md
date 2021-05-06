@@ -4,11 +4,11 @@ author: Jen
 nav_order: 3
 ---
 
-# Election Advice
+# Elections and Strategy
 
-Blaseball is complicated. Elections can have effects that are not at all obvious. Here are some of the more subtle things you might want to consider when voting.
+Blaseball is complicated, and its elections are deliberately broken. Here are some of the main things that affect elections in non-obvious ways.
 
-Some of this advice refers to player attributes, which can be seen on the site with an Apple. An Apple will also let you see what percent of our Will votes are for each Will when you select the Will and open the voting dialog for it. Alternately, [SIBR](https://sibr.dev) has made tools that will let you view player attributes and Will vote standings without an Apple, though if you aren't careful around SIBR's stuff you may also see spoilers.
+Some parts of this page refer to player attributes, which can be seen on the site with an Apple. An Apple will also let you see what percent of our Will votes are for each Will when you select the Will and open the voting dialog for it. Alternately, [SIBR](https://sibr.dev) has made tools that will let you view player attributes and Will vote standings without an Apple, though if you aren't careful around SIBR's stuff you may also see spoilers.
 
 * [Stars lie](#stars-lie)
 * [Rerolls are very risky](#rerolls-are-very-risky)
