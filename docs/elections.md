@@ -1,5 +1,6 @@
 ---
 layout: page
+title: The Blatting Cage: Election Theory For Maximizing Hits
 author: Jen
 nav_order: 3
 ---
