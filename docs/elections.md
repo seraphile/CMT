@@ -64,11 +64,11 @@ The Crabs plundered York and lost Enid Marlow.
 
 Enid had slightly fewer batting stars, slightly more defense stars, and substantially more baserunning stars. Strategically, Enid was better for their team.
 
-Also York was dead when he was plundered, so he got the Returned mod, which could return him to the Hall of Flames at the end of any season.
+Also York was dead when he was plundered, so he got the Returned mod, which could have returned him to the Hall of Flames at the end of any season.
 
 #### Chorby Short and Nagomi Mcdaniels, season 15
 
-Plundering these [REDACTED] players didn't work, but it did give them the Unstable mod, which makes it much more likely that they won't survive the [REDACTED] plot arc.
+Plundering these [REDACTED] players didn't work, but it did give them the Unstable mod, which made it much more likely that they won't survive the [REDACTED] plot arc.
 
 #### Sutton Picklestein, season 13
 
@@ -84,7 +84,7 @@ If you need to vote early for logistics reasons, things that help the whole team
 
 #### Joshua Butt
 
-Joshua Butt was incinerated by a rogue umpire on day 77 of season 12. In the season 12 election, they were infused.
+Joshua Butt was incinerated by a rogue umpire on day 77 of season 12. In the election at the end of season 12, they were infused.
 
 #### Nagomi Mcdaniel
 
