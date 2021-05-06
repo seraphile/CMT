@@ -4,11 +4,11 @@ author: Jen
 nav_order: 3
 ---
 
-# Election Advice
+# Elections and Strategy
 
-Blaseball is complicated. Elections can have effects that are not at all obvious. Here are some of the more subtle things you might want to consider when voting.
+Blaseball is complicated, and its elections are deliberately broken. Here are some of the main things that affect elections in non-obvious ways.
 
-Some of this advice refers to player attributes, which can be seen on the site with an Apple. An Apple will also let you see what percent of our Will votes are for each Will when you select the Will and open the voting dialog for it. Alternately, [SIBR](https://sibr.dev) has made tools that will let you view player attributes and Will vote standings without an Apple, though if you aren't careful around SIBR's stuff you may also see spoilers.
+Some parts of this page refer to player attributes, which can be seen on the site with an Apple. An Apple will also let you see what percent of our Will votes are for each Will when you select the Will and open the voting dialog for it. Alternately, [SIBR](https://sibr.dev) has made tools that will let you view player attributes and Will vote standings without an Apple, though if you aren't careful around SIBR's stuff you may also see spoilers.
 
 * [Stars lie](#stars-lie)
 * [Rerolls are very risky](#rerolls-are-very-risky)
@@ -64,11 +64,11 @@ The Crabs plundered York and lost Enid Marlow.
 
 Enid had slightly fewer batting stars, slightly more defense stars, and substantially more baserunning stars. Strategically, Enid was better for their team.
 
-Also York was dead when he was plundered, so he got the Returned mod, which could return him to the Hall of Flames at the end of any season.
+Also York was dead when he was plundered, so he got the Returned mod, which could have returned him to the Hall of Flames at the end of any season.
 
 #### Chorby Short and Nagomi Mcdaniels, season 15
 
-Plundering these [REDACTED] players didn't work, but it did give them the Unstable mod, which makes it much more likely that they won't survive the [REDACTED] plot arc.
+Plundering these [REDACTED] players didn't work, but it did give them the Unstable mod, which made it much more likely that they won't survive the [REDACTED] plot arc.
 
 #### Sutton Picklestein, season 13
 
@@ -84,7 +84,7 @@ If you need to vote early for logistics reasons, things that help the whole team
 
 #### Joshua Butt
 
-Joshua Butt was incinerated by a rogue umpire on day 77 of season 12. In the season 12 election, they were infused.
+Joshua Butt was incinerated by a rogue umpire on day 77 of season 12. In the election at the end of season 12, they were infused.
 
 #### Nagomi Mcdaniel
 
