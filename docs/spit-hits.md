@@ -4,7 +4,7 @@ nav_order: 2
 ---
 # Talking Spit, Getting Hits: MT Election Discourse
 
-**Elections are spicy.**  The Moist Talkers have an incredibly smart and engaged fanbase, but even the most empathetic Canadian can find themself caught up in unproductive partisan discourse.  That’s why we’re rolling out this new vocabulary ahead of Season 18, to help shape the conversation — how we express our own ideas, and how we view those of others.
+**Elections are spicy.**  The Moist Talkers have an incredibly smart and engaged fanbase, but even the most empathetic Canadian can find themself caught up in unproductive partisan discourse.  Blaseball is complicated, and its elections are deliberately broken. That’s why we’re rolling out this new vocabulary ahead of Season 18, to help shape the conversation — how we express our own ideas, and how we view those of others.
 
 In the past, the debate has been boiled down to **Lore** vs. **Stats**.  Each issue would get categorized as one or the other, and they would be in competition.  But what if they’re not in competition?
 
