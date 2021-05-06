@@ -1,3 +1,6 @@
+---
+nav_order: 1
+---
 # Discord Rules
 We have 2 Community Values. 
 > 1. Be Kind and 
