@@ -1,3 +1,6 @@
+---
+nav_order: 2
+---
 # Talking Spit, Getting Hits: A Guide to Moist Talker Election Discourse
 
 **Elections are spicy.**  The Moist Talkers have an incredibly smart and engaged fanbase, but even the most empathetic Canadian can find themself caught up in unproductive partisan discourse.  That’s why we’re rolling out this new vocabulary ahead of Season 18, to help shape the conversation — how we express our own ideas, and how we view those of others.
