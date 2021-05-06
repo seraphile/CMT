@@ -12,7 +12,7 @@ We’re broadening the terms to emphasize our core values as Moist Talker fans a
 
 ## Talking Spit
 
-**This category focuses on the Moist Talker brand, separate from the games.**
+**This category focuses on the Moist Talker brand, separate from game outcomes.**
 
 This category is a bit nebulous, but it prioritizes things like:<br>
 • Team Culture / Tradition<br>
