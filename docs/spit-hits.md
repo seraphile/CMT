@@ -1,4 +1,5 @@
 ---
+author: Eephus
 nav_order: 2
 ---
 # Talking Spit, Getting Hits: A Guide to Moist Talker Election Discourse
