@@ -1,6 +1,7 @@
 ---
 layout: page
 author: Jen
+nav_order: 3
 ---
 
 # Election Advice
