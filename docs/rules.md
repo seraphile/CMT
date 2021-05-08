@@ -36,7 +36,7 @@ Our four channels are:
 * **#⚪moist-glallery** an archival art channel
 
 ## #⚪The-Daily-Spews📰
-Our news channel. Make sure to read to keep up with current events & team organization. If you've taken a break from blaseball recently, reading the recent spews is a good way to catch up on anything that happened while you were gone.
+Our news channel. Make sure to read to keep up with current events & team organization. The Spews is a good place to check if something big has happened while you were offline.
 ### Temperature Checks
 Sometimes the representatives will do quick temperature checks in **#⚪the-daily-spews📰** to get a feel for general team vibes on a topic. Results of temperature checks are not set in stone, but they help representatives make snap decisions, such as e.g. temporarily closing our channels after a player is incinerated.
 ## #⚪Moist-Glallery
