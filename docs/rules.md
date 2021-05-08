@@ -23,7 +23,7 @@ Each team on discord has their own way of managing things.  We have permanent re
 * Deleting inappropriate posts on the spot
 * Summoning the Keepers
 
-If you have a problem with a Representatives, or any other discord user, utilize mod mail by DM-ing: 
+If you have a problem with a Representative, or any other discord user, utilize mod mail by DM-ing: 
 ```
 !MODMAIL_KEEPERS📮#0864 
 ````
