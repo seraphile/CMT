@@ -58,7 +58,7 @@ If a conversation about voting becomes too circular or heated, the representativ
 ### Election resources
 In addition to the resources here on https://moist.fans, we usually have a google form and a spreadsheet for recording votes. We may also have some other resources for tracking the discussion; these are in a state of flux at the moment. You can find the current election resources by posting `+moistvotes` in **#⚪the-underarnea**.
 ### Curated Democracy
-If there is a clear leader in the *blessing/decrees* discussion, we’ll begin propaganda for that option so we can communicate to the discord-external community (usually via twitter). Otherwise, representatives will use the general consensus from the *blessing/decrees* discussion and sometimes from polls to set voting goals on the [voting guide]({% link voting.md %}) and in the vote tracking sheet. Even if you don’t vote for a set goal, please record your votes.
+If there is a clear leader in the *blessing/decrees* discussion, we’ll solicit propaganda for that option so we can communicate to the discord-external community (usually via [twitter](https://twitter.com/MoistTalkers)). Otherwise, representatives will use the general consensus from the *blessing/decrees* discussion and sometimes from polls to set voting goals on the [voting guide]({% link voting.md %}) and in the vote tracking sheet. Even if you don’t vote for a set goal, please record your votes.
 ### Wills
 We are still working out some of the details of how we discuss Wills and decide on goals for them. The [Talking Spit, Getting Hits]({% link spit-hits.md %}) page explains the approach we're currently trying.
 
