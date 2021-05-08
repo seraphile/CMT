@@ -23,26 +23,26 @@ Each team on discord has their own way of managing things.  We have permanent re
 * Deleting inappropriate posts on the spot
 * Summoning the Keepers
 
-If you have a problem with a Representatives, or any other discord user, utilize mod mail by DM-ing: 
+If you have a problem with a Representative, or any other discord user, utilize mod mail by DM-ing: 
 ```
 !MODMAIL_KEEPERS📮#0864 
 ````
-Your Active Representatives are `pigeons#2351`, `Sera#3684`, `Zakaro#5951`, `thevdude#6881` & `Squeeq#5185`.
+Your Active Representatives are `pigeons#2351`, `Sera#3684`, `Zakaro#5951`, `thevdude#6881`, `Squeeq#5185`, `drmikenstein#7282`, `Absotively#0014`, `Eephus#0557` & `Spiral_Joe#7891`.
 
 Our four channels are:
 * **#⚪the-daily-spews📰** a news/announcement board channel
 * **#⚪orb-corner** or whatever joke its renamed for, general channel
-* **#⚪gleek-seating** channel for live watching games
+* **#⚪the-underarena** channel for live watching games and for strategy discussions
 * **#⚪moist-glallery** an archival art channel
 
 ## #⚪The-Daily-Spews📰
-Our news channel. Make sure to read to keep up with current events & team organization.
+Our news channel. Make sure to read to keep up with current events & team organization. The Spews is a good place to check if something big has happened while you were offline.
 ### Temperature Checks
 Sometimes the representatives will do quick temperature checks in **#⚪the-daily-spews📰** to get a feel for general team vibes on a topic. Results of temperature checks are not set in stone, but they help representatives make snap decisions, such as e.g. temporarily closing our channels after a player is incinerated.
 ## #⚪Moist-Glallery
 A channel dedicated to art & creative content only.
 * Post Creative content **#⚪moisttalkers-glallery**. Don't be afraid to post it in the main channel as well, this channel exist for Archival purposes. Tag your art so people can search the channel more easily, e.g. [Richmond] or [Ziwa & Eugenia].
-* No chatter in **#⚪moisttalkers-glallery**, the other we have two other channels for people talking moistly. Artists, feel free to post art in **#⚪moisttalkers-glallery** & the main channel so people can gush over it there. Incidental chatter will be deleted by the representatives.
+* No chatter in **#⚪moisttalkers-glallery**, we have two other channels for people talking moistly. Artists, feel free to post art in **#⚪moisttalkers-glallery** & the main channel so people can gush over it there. Incidental chatter will be deleted by the representatives.
 * WIPs & Sketches live in **#⚪moisttalkers-glallery** too! Please post your sketches you might not necessarily be confident to post in **#fanwork** in **#⚪moisttalkers-glallery**, we think they are beautiful and still want to see them. However try to refrain from spamming WIPs, if you want show us every step of the process maybe make a process GIF/video!
 
 ## Pausing Topics ⏸
@@ -51,18 +51,17 @@ A channel dedicated to art & creative content only.
 Sometimes the team representatives will ask for moratorium or “pause” on certain topics. Usually this is when something catastrophic has happened to the team and we can’t deal with voting discourse & incineration grief happening simultaneously.
 
 ## Voting
-Every team has a slightly different approach to organised voting. Ours can be summarized as “curated democracy”. We encourage people to vote with their hearts, as long as they *record their votes in the sheet* 👁✍
+Every team has a slightly different approach to organised voting. Ours can be summarized as “curated democracy”. We do come up with some recommended options, but we encourage people to vote with their hearts, as long as they *record their votes in the form* 👁✍
 
 If a conversation about voting becomes too circular or heated, the representatives will shut it down.
 
-### The Sheet
-All our voting is recorded & coordinated in a google sheet. You can find the sheet by posting `+moistvotes` in **#⚪orb-corner**. One of the most important parts of the sheet is the *blessing/decrees preference* section. It gives everyone a chance to voice their opinions without the topic of voting dominating chat.
+### Election resources
+In addition to the resources here on https://moist.fans, we usually have a google form and a spreadsheet for recording votes. We may also have some other resources for tracking the discussion; these are in a state of flux at the moment. You can find the current election resources by posting `+moistvotes` in **#⚪the-underarnea**.
 ### Curated Democracy
-If there is a clear leader in the *blessing/decrees* preference section, we’ll begin propaganda for that option so we can communicate to the discord-external community (usually via twitter). Otherwise, representatives will use the general consensus from *blessing/decrees preference* section to set voting goals on the *Blessing Vote Entry* page. There members who wish to engage in team coordination can find out where to vote. Even if you don’t vote for a voting goal, please record your votes.
+If there is a clear leader in the *blessing/decrees* discussion, we’ll solicit propaganda for that option so we can communicate to the discord-external community (usually via [twitter](https://twitter.com/MoistTalkers)). Otherwise, representatives will use the general consensus from the *blessing/decrees* discussion and sometimes from polls to set voting goals on the [voting guide]({% link voting.md %}) and in the vote tracking sheet. Even if you don’t vote for a set goal, please record your votes.
 ### Wills
-So far our current system has worked well, up until Season 12 where Wills were introduced.  Wills are far more divisive & higher permutation than blessings & decrees. Our main rule for Wills is **DON’T VOTE UNTIL SATURDAY**. Voting before Saturday can lead to cases of accidental necromancy, or infusing a player now no longer on our team. Wills are only “safe” to vote on after post-season has ended, when players can no longer be affected by events. 
+We are still working out some of the details of how we discuss Wills and decide on goals for them. The [Talking Spit, Getting Hits]({% link spit-hits.md %}) page explains the approach we're currently trying.
 
-The team representatives are still figuring out how to handle Wills-course, please bear with us.
 ## Content Warnings & Cursed Content
 You can spoiler text by with the  following formatting:
 
@@ -96,7 +95,7 @@ Propaganda is images related to voting, teams & events posted in **#community-bi
 ### Pronouns
 You are not obliged to put your pronouns in your name, but we encourage doing so to make discord a more welcoming space.
 ###  Visitors
-Our teams policy to visitors by default is `Open✅`. You can check other teams’ visiting policies here: <https://teams.beefox.xyz/>
+Our teams policy to visitors by default is `Open✅`. You can check our up-to-the-minute status and other teams’ visiting policies here: <https://teams.beefox.xyz/>
 ### Sundaes🍨
 * Sundaes are a legit way to play the game that is Blaseball. Don’t criticize/moralize other team members for using them.
 * Conversely, do not do a song & dance about your payouts for Sundaes. Remember, Be Kind.
