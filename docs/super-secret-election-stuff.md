@@ -13,7 +13,7 @@ Our current approach to election discussions is to analyze our options based on 
 
 Our [election and strategy guide]({% link elections.md %}) explains some of the less obvious things we consider, especially on the getting hits front.
 
-We hold strategy discussions in our watch channel, #⚪the-underarena.
+We hold strategy discussions in our watch channel, #⚪the-underarena. Remember that people asking about strategy early in the week may be trying to start a discussion, and avoid jumping to "No votes until Saturday" as a response.
 
 The [proposal doc]() is where we're tracking things people have proposed for the upcoming election and the major points that have been made for or against each proposal.
 
