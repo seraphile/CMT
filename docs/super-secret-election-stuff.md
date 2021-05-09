@@ -15,7 +15,7 @@ Our [election and strategy guide]({% link elections.md %}) explains some of the 
 
 We hold strategy discussions in our watch channel, #⚪the-underarena. Remember that people asking about strategy early in the week may be trying to start a discussion, and avoid jumping to "No votes until Saturday" as a response.
 
-The [proposal doc](http://moist.fans/proposal.html) is where we're tracking things people have proposed for the upcoming election and the major points that have been made for or against each proposal.
+The [proposal doc](http://moist.fans/proposals.html) is where we're tracking things people have proposed for the upcoming election and the major points that have been made for or against each proposal.
 
 Later in the week there is usually at least one poll. Probably best to ask about that in the Discord, in case we forgot to update this with the current link.
 
