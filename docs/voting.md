@@ -1,6 +1,6 @@
 # Voting Guide
 
-If you're voting early, the following options all look very likely to be positive or neutral [hits]({% link spits-hits.md %}) regardless of what happens this season:
+If you're voting early, the following options all look very likely to be positive or neutral [hits]({% link spit-hits.md %}) regardless of what happens this season:
 
 ## Decreees
 
