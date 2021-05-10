@@ -1,3 +1,6 @@
 {% if page.search_engine_exclude %}
   <meta name="robots" content="noindex">
 {% endif %}
+{% if page.redirect_to %}
+  <meta http-equiv="Refresh" content="0; URL={{ page.redirect_to }}">
+{% endif %}
