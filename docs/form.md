@@ -5,4 +5,4 @@ sitemap: false
 redirect_to: https://forms.gle/zASpKY2NjKeZXbzR9
 ---
 
-### ***### ***Redirecting to the Moist Talker Vote Tracking Form...******
+### ***Redirecting to the Moist Talker Vote Tracking Form...***
