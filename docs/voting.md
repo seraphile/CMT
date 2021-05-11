@@ -8,6 +8,7 @@ If you're voting early, the following options all look very likely to be positiv
 * Hype Train
 * Ratification
 * Climate Control
+* Trust Fall
 
 ## Blessings
 
@@ -22,12 +23,15 @@ If you're voting early, the following options all look very likely to be positiv
 * Shadow Cap Supply Run
 * Shadow Bat Supply Run
 * Class Act
-* Sanctified
 * Laserlikeness Patches
 * Tenacity Patches
 * Musclitude Patches
 * Moxie Patches
 * Cinnamon Roll
 * Pressure Re-Cooker
+* Cape of Containment
+* Bon Voyage
+* Graphene
+* Open Floor Plan
 
 Remember, if you want to ask about this voting guide or discuss election strategy, you can always [join us on Discord](https://discord.gg/3uFgJhu). Follow the instructions in the #choose-your-team channel when you get there.
