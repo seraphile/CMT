@@ -2,7 +2,7 @@
 
 If you're voting early, the following options all look very likely to be positive or neutral [hits]({% link spit-hits.md %}) regardless of what happens this season:
 
-## Decreees
+## Decrees
 
 * Wrecking Ball
 * Hype Train
