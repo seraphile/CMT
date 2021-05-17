@@ -2,7 +2,6 @@
 nav_exclude: true
 search_engine_exclude: true
 sitemap: false
-redirect_to: https://docs.google.com/spreadsheets/d/1h_xDIlBkkw2Hhum-PjiWwviNkXRinD_FB0vsmUT3_tA/edit#gid=167109671
 ---
 
-### ***Redirecting to The Moist Talker Vote Tracker...***
+### ***The Moist Talker Vote Tracker for Season 18 is under construction.  Please check back later!***
