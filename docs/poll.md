@@ -2,6 +2,7 @@
 nav_exclude: true
 search_engine_exclude: true
 sitemap: false
+redirect_to: https://forms.gle/9EJLaQbdA1zy95KK6
 ---
 
-### ***There is currently no poll active for the Moist Talkers.  Check back later in the week!***
+### ***Redirecting to the Moist Talkers S19 Election Poll***
