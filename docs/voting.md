@@ -1,33 +1,22 @@
 # Voting Guide
 
-It's helpful to wait for Saturday if you can, but if you're voting early, here are some options to consider.
 
-## Safe Early Voting Options
+## Blessings
 
-* Outdoorsy
-* Gaudy
-* Cluttered
-* Batting Practice
-* Pitching Practice
-* Running Practice
-* Defense Practice
-* Shadow of the Bats
-* Fax Numbers
-* Shadow Run
-* Cover Letters
-* Junk Baller
-* Walk It Off
-* Feast or Famine
-* Revelations
-* Shadow Sunglasses Supply Run
-* Shadow Helmet Supply Run
-* Targeted Evolution
+ * **Moderation**
+ * **Headliners**
 
-## Riskier Early Voting Options
+Want to spread your votes a little more? Most of the blessings are pretty good for us this season, **except** Now Hiring, Super Roamin' Fifth Base, Fax Preparation, and Hits Keep Coming. **Please avoid those four!**
 
-These are definitely risky, because Super Roamin' might make a player leave and Amos might be feedbacked to some other team by election time, but if you're determined to take risks with your early vote these are probably the ones to take:
+## Wills
 
-* Super Roamin' Fifth Base
-* Alternate Trust Will targeting Amos Melon
+Please focus more on blessings this season! We've got our fingers crossed for some early Alt Trust Amos votes.
+
+ * Infuse London Simmons' Batting
+ * Foreshadow Augusto Reddick for London Simmons
+
+## Decrees
+
+Vote with your heart!
 
 Remember, if you want to ask about this voting guide or discuss election strategy, you can always [join us on Discord](https://discord.gg/3uFgJhu). Follow the instructions in the #choose-your-team channel when you get there.
