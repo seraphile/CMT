@@ -31,19 +31,19 @@ Your Active Representatives are `pigeons#2351`, `Sera#3684`, `Zakaro#5951`, `the
 
 Our four channels are:
 * **#⚪the-daily-spews📰** a news/announcement board channel
-* **#⚪orb-corner** or whatever joke its renamed for, general channel
-* **#⚪the-underarena** channel for live watching games and for strategy discussions
-* **#⚪moist-glallery** an archival art channel
+* **#⚪orb-corner🗣️** or whatever joke it's renamed for, general channel
+* **#⚪the-underarena👀** channel for live watching games and for strategy discussions
+* **#⚪the-louvgie🎨** an archival art channel
 
-## #⚪The-Daily-Spews📰
+## #⚪the-daily-spews📰
 Our news channel. Make sure to read to keep up with current events & team organization. The Spews is a good place to check if something big has happened while you were offline.
 ### Temperature Checks
 Sometimes the representatives will do quick temperature checks in **#⚪the-daily-spews📰** to get a feel for general team vibes on a topic. Results of temperature checks are not set in stone, but they help representatives make snap decisions, such as e.g. temporarily closing our channels after a player is incinerated.
-## #⚪Moist-Glallery
+## ##⚪the-louvgie🎨
 A channel dedicated to art & creative content only.
-* Post Creative content **#⚪moisttalkers-glallery**. Don't be afraid to post it in the main channel as well, this channel exist for Archival purposes. Tag your art so people can search the channel more easily, e.g. [Richmond] or [Ziwa & Eugenia].
-* No chatter in **#⚪moisttalkers-glallery**, we have two other channels for people talking moistly. Artists, feel free to post art in **#⚪moisttalkers-glallery** & the main channel so people can gush over it there. Incidental chatter will be deleted by the representatives.
-* WIPs & Sketches live in **#⚪moisttalkers-glallery** too! Please post your sketches you might not necessarily be confident to post in **#fanwork** in **#⚪moisttalkers-glallery**, we think they are beautiful and still want to see them. However try to refrain from spamming WIPs, if you want show us every step of the process maybe make a process GIF/video!
+* Post Creative content **#⚪the-louvgie🎨**. Don't be afraid to post it in **#⚪orb-corner🗣️** as well, this channel exists for Archival purposes. Tag your art so people can search the channel more easily, e.g. [Richmond] or [Ziwa & Eugenia].
+* No chatter in **#⚪the-louvgie🎨**, we have two other channels for people talking moistly. Artists, feel free to post art in **#⚪the-louvgie🎨** & **#⚪orb-corner🗣️** so people can gush over it there. Incidental chatter will be deleted by the representatives.
+* WIPs & Sketches live in **#⚪the-louvgie🎨** too! Please post your sketches you might not necessarily be confident to post in **#fanwork** in **#⚪the-louvgie🎨**, we think they are beautiful and still want to see them. However try to refrain from spamming WIPs, if you want show us every step of the process maybe make a process GIF/video!
 
 ## Pausing Topics ⏸
 🚧[Under construction]🚧
@@ -56,7 +56,7 @@ Every team has a slightly different approach to organised voting. Ours can be su
 If a conversation about voting becomes too circular or heated, the representatives will shut it down.
 
 ### Election resources
-In addition to the resources here on https://moist.fans, we usually have a google form and a spreadsheet for recording votes. We may also have some other resources for tracking the discussion; these are in a state of flux at the moment. You can find the current election resources by posting `+moistvotes` in **#⚪the-underarnea**.
+In addition to the resources here on https://moist.fans, we usually have a google form and a spreadsheet for recording votes. We may also have some other resources for tracking the discussion; these are in a state of flux at the moment. You can find the current election resources by posting `+moistvotes` in **#⚪the-underarena👀**.
 ### Curated Democracy
 If there is a clear leader in the *blessing/decrees* discussion, we’ll solicit propaganda for that option so we can communicate to the discord-external community (usually via [twitter](https://twitter.com/MoistTalkers)). Otherwise, representatives will use the general consensus from the *blessing/decrees* discussion and sometimes from polls to set voting goals on the [voting guide]({% link voting.md %}) and in the vote tracking sheet. Even if you don’t vote for a set goal, please record your votes.
 ### Wills
