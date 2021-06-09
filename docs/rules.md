@@ -59,8 +59,9 @@ Sometimes the reps will post simple polls in the **#⚪the-daily-spews📰** tha
 ## ##⚪the-louvgie🎨
 
 A channel dedicated to art & creative content only.
-* Post Creative content **#⚪the-louvgie🎨**. Don't be afraid to post it in **#⚪orb-corner🗣️** as well, this channel exists for Archival purposes. Tag your art so people can search the channel more easily, e.g. [Richmond] or [Ziwa & Eugenia].
-* No chatter in **#⚪the-louvgie🎨**, we have two other channels for people talking moistly. Artists, feel free to post art in **#⚪the-louvgie🎨** & **#⚪orb-corner🗣️** so people can gush over it there. Incidental chatter will be deleted by the representatives.
+
+* Post Creative content **#⚪the-louvgie🎨**. Don't be afraid to post it in **#⚪orb-corner🗣️** as well, this channel exists for Archival purposes. Please tag your art so people can search the channel more easily, e.g. [Richmond] or [Ziwa & Eugenia].
+* No chatter in **#⚪the-louvgie🎨**, we have two other channels for people talking moistly. Artists, feel free to post art in both **#⚪the-louvgie🎨** & **#⚪orb-corner🗣️** so people can gush over it there. Incidental chatter will be deleted by the representatives.
 * WIPs & Sketches live in **#⚪the-louvgie🎨** too! Please post your sketches you might not necessarily be confident to post in **#fanwork** in **#⚪the-louvgie🎨**, we think they are beautiful and still want to see them. However try to refrain from spamming WIPs, if you want show us every step of the process maybe make a process GIF/video!
 
 ## Pausing Topics ⏸
