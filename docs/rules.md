@@ -40,7 +40,7 @@ If you have a problem with a representative, or any other discord user, utilize 
 ```
 !MODMAIL_KEEPERS📮#0864 
 ````
-Your Active Representatives are `pigeons#2351`, `Sera#3684`, `Zakaro#5951`, `thevdude#6881`, `Squeeq#5185`, `drmikenstein#7282`, `Absotively#0014`, `Eephus#0557` & `Spiral_Joe#7891`.
+Your Active Representatives are `pigeons#2351`, `Zakaro#5951`, `thevdude#6881`, `Squeeq#5185`, `drmikenstein#7282`, `Absotively#0014`, `Eephus#0557` & `Spiral_Joe#7891`.
 
 Our four channels are:
 * **#⚪the-daily-spews📰** a news/announcement board channel
