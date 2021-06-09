@@ -16,14 +16,27 @@ We have 2 Community Values.
 </details>
 
 ## Team Structure
-Each team on discord has their own way of managing things.  We have permanent residence representatives. Team Representatives (often “reps” for short) fulfil the following roles:
-* Being a point of contact representing the Team, for Keepers & Other Teams
-* Custodial responsibilities, such as pinning, posting news
-* Organizing Group Voting
-* Deleting inappropriate posts on the spot
-* Summoning the Keepers
+Each team on discord has their own way of managing things.  We have team representatives (often “reps” for short) who do both the standard things that all Discord team reps do and some Talkers-specific things.
 
-If you have a problem with a Representative, or any other discord user, utilize mod mail by DM-ing: 
+Standard rep things our reps do:
+* Being a point of contact for keepers (server mods) & other teams
+* Sharing information from keepers & other teams with our team
+* Minor channel maintenance tasks, such as pinning posts and asking the keepers to make changes to channel titles, topics, or slowmodes
+* Deleting inappropriate posts on the spot
+* Summoning the keepers when needed
+* Keeping an eye on team vibes
+
+Talkers-specific things our reps do:
+* Keeping this rules page up-to-date
+* Posting news in our news channel
+* Organizing ways to keep discussion welcoming and on track when needed, such as by adapting strategy discussion approaches from other teams, scheduling lore jams, encouraging topics that go in specific channels to be kept in those channels, reminding people to spoiler food crimes, and so on
+* Managing election strategy polls and vote trackers
+
+Our team organization has kind of evolved organically, so it's not set in stone. But at this time, the reps are trying to avoid adding things to the second list without careful consideration.
+
+You may occasionally see reps referred to as captains. This is an old habit from before some server terminology was changed.
+
+If you have a problem with a representative, or any other discord user, utilize mod mail by DM-ing: 
 ```
 !MODMAIL_KEEPERS📮#0864 
 ````
