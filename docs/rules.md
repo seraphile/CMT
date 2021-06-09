@@ -49,10 +49,15 @@ Our four channels are:
 * **#⚪the-louvgie🎨** an archival art channel
 
 ## #⚪the-daily-spews📰
+
 Our news channel. Make sure to read to keep up with current events & team organization. The Spews is a good place to check if something big has happened while you were offline.
-### Temperature Checks
-Sometimes the representatives will do quick temperature checks in **#⚪the-daily-spews📰** to get a feel for general team vibes on a topic. Results of temperature checks are not set in stone, but they help representatives make snap decisions, such as e.g. temporarily closing our channels after a player is incinerated.
+
+### Emoji polls
+
+Sometimes the reps will post simple polls in the **#⚪the-daily-spews📰** that people can vote in by reacting with specific emoji. The reps do this to get a feel for general team vibes on a topic. The results of these are not set in stone, but they help the reps make snap decisions, such as e.g. whether to invite our opponents for the next game to come watch it with us.
+
 ## ##⚪the-louvgie🎨
+
 A channel dedicated to art & creative content only.
 * Post Creative content **#⚪the-louvgie🎨**. Don't be afraid to post it in **#⚪orb-corner🗣️** as well, this channel exists for Archival purposes. Tag your art so people can search the channel more easily, e.g. [Richmond] or [Ziwa & Eugenia].
 * No chatter in **#⚪the-louvgie🎨**, we have two other channels for people talking moistly. Artists, feel free to post art in **#⚪the-louvgie🎨** & **#⚪orb-corner🗣️** so people can gush over it there. Incidental chatter will be deleted by the representatives.
