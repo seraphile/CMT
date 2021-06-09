@@ -42,6 +42,12 @@ If you have a problem with a representative, or any other discord user, utilize 
 ````
 Your Active Representatives are `pigeons#2351`, `Zakaro#5951`, `thevdude#6881`, `Squeeq#5185`, `drmikenstein#7282`, `Absotively#0014`, `Eephus#0557` & `Spiral_Joe#7891`.
 
+### Pinging reps
+
+You can ping the `@rep - moisttalkers` role if you want to get the reps' attention for any reason.
+
+Discord's role autocomplete doesn't handle spaces well. Typing @moist or @talkers will bring up the right role in the autocomplete, and you can click or tap it there.
+
 Our four channels are:
 * **#⚪the-daily-spews📰** a news/announcement board channel
 * **#⚪orb-corner🗣️** or whatever joke it's renamed for, general channel
