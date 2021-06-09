@@ -65,9 +65,12 @@ A channel dedicated to art & creative content only.
 * WIPs & Sketches live in **#⚪the-louvgie🎨** too! Please post your sketches you might not necessarily be confident to post in **#fanwork** in **#⚪the-louvgie🎨**, we think they are beautiful and still want to see them. However try to refrain from spamming WIPs, if you want show us every step of the process maybe make a process GIF/video!
 
 ## Pausing Topics ⏸
-🚧[Under construction]🚧
 
-Sometimes the team representatives will ask for moratorium or “pause” on certain topics. Usually this is when something catastrophic has happened to the team and we can’t deal with voting discourse & incineration grief happening simultaneously.
+Sometimes the team reps will ask for a pause or moratorium on certain topics. This is usually when emotions seem to be running high, due to a contentious topic or something bad having happened to the team.
+
+Pauses will usually be announced and explained in **#⚪the-daily-spews📰**, though there may be a little delay between the pause first being requested and the Spews post going up. The Spews post will generally include information about when the topic will be unpaused.
+
+If you'd like to request a topic pause, please ping **@rep - moisttalkers** so the reps can see it and help facilitate discussion at a later date.
 
 ## Voting
 Every team has a slightly different approach to organised voting. Ours can be summarized as “curated democracy”. We do come up with some recommended options, but we encourage people to vote with their hearts, as long as they *record their votes in the form* 👁✍
