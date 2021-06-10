@@ -62,7 +62,7 @@ Our news channel. Make sure to read to keep up with current events & team organi
 
 Sometimes the reps will post simple polls in the **#⚪the-daily-spews📰** that people can vote in by reacting with specific emoji. The reps do this to get a feel for general team vibes on a topic. The results of these are not set in stone, but they help the reps make snap decisions, such as e.g. whether to invite our opponents for the next game to come watch it with us.
 
-## ##⚪the-louvgie🎨
+## #⚪the-louvgie🎨
 
 A channel dedicated to art & creative content only.
 
