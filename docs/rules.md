@@ -78,17 +78,23 @@ Pauses will usually be announced and explained in **#⚪the-daily-spews📰**, t
 
 If you'd like to request a topic pause, please ping **@rep - moisttalkers** so the reps can see it and help facilitate discussion at a later date.
 
-## Voting
-Every team has a slightly different approach to organised voting. Ours can be summarized as “curated democracy”. We do come up with some recommended options, but we encourage people to vote with their hearts, as long as they *record their votes in the form* 👁✍
+## Election organizing
 
-If a conversation about voting becomes too circular or heated, the representatives will shut it down.
+### Keeping discussion friendly
 
-### Election resources
-In addition to the resources here on https://moist.fans, we usually have a google form and a spreadsheet for recording votes. We may also have some other resources for tracking the discussion; these are in a state of flux at the moment. You can find the current election resources by posting `+moistvotes` in **#⚪the-underarena👀**.
-### Curated Democracy
-If there is a clear leader in the *blessing/decrees* discussion, we’ll solicit propaganda for that option so we can communicate to the discord-external community (usually via [twitter](https://twitter.com/MoistTalkers)). Otherwise, representatives will use the general consensus from the *blessing/decrees* discussion and sometimes from polls to set voting goals on the [voting guide]({% link voting.md %}) and in the vote tracking sheet. Even if you don’t vote for a set goal, please record your votes.
-### Wills
-We are still working out some of the details of how we discuss Wills and decide on goals for them. The [Talking Spit, Getting Hits]({% link spit-hits.md %}) page explains the approach we're currently trying.
+We use "[Talking Spit, Getting Hits]({% link spit-hits.md %})" terms to acknowledge that different blaseball fans have different priorities, and no approach is right or wrong. You don't have to use the specific terms spit and hits, but you do have to avoid implying that other people's approaches to elections are bad. Using the spit/hits language can make this easier and help get your points across clearly.
+
+We also ask people to use "I" language to avoid implying that their opinion is objective fact. Even when something seems to come down to numbers, there are generally still multiple views on what is most important to do and what the best way to approach it is.
+
+Finally, please keep election strategy discussion in **#⚪the-underarena👀**, so that anyone who needs a break from it can escape to **#⚪orb-corner🗣️**.
+
+If a conversation about election strategy becomes too circular or heated, the representatives will shut it down.
+
+### Organizing tools
+
+Our current organizing tools include a central list of proposed strategies, a poll, a vote tracker, and a voting guide that is based on team consensus and shared on Twitter. You can get a more detailed current list with links by posting `+moistvotes` in **#⚪the-underarena👀**.
+
+Currently the people running these tools are all reps, but the reps do try to keep discussion about how these should work in the team channels where anyone can contribute.
 
 ## Content Warnings & Cursed Content
 You can spoiler text by with the  following formatting:
