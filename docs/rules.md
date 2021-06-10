@@ -141,7 +141,7 @@ You are not obliged to put your pronouns in your name, but we encourage doing so
 
 ###  Visitors
 
-Our teams policy to visitors by default is `Open✅`. You can check our up-to-the-minute status and other teams’ visiting policies here: <https://teams.beefox.xyz/>
+Our teams policy to visitors by default is `Open✅`, but we do ask people not to bring us election proposals. You can check our up-to-the-minute status and other teams’ visiting policies here: <https://teams.beefox.xyz/>
 
 ### Sundaes🍨
 
@@ -151,3 +151,5 @@ Our teams policy to visitors by default is `Open✅`. You can check our up-to-th
 ### Swoomba
 
 The Swoomba is a bot that deletes swear words. We have a couple of extra words that it considers “naughty words” in our channel. If your message gets randomly deleted for mentioning a certain webcomic, that’s why.
+
+The Swoomba warning messages are not strikes. The bot’s default text cannot be changed, hence the foreboding phrasing.
