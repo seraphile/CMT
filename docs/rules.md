@@ -97,7 +97,8 @@ Our current organizing tools include a central list of proposed strategies, a po
 Currently the people running these tools are all reps, but the reps do try to keep discussion about how these should work in the team channels where anyone can contribute.
 
 ## Content Warnings & Cursed Content
-You can spoiler text by with the  following formatting:
+
+You can spoiler text by with the following formatting:
 
 `||` Spoiler Goes Here `||`
 
@@ -106,14 +107,19 @@ If you are on mobile, the Blaseball Discord has a bot that lets you spoiler imag
 `-spoiler`
 
 Make sure to spoiler text & images appropriately, and always let people know what you are issuing a warning about. For example: *cw: eyes*
+
 ### Cursed Content
+
 Moist Talkers have a reputation for being into cursed content. Here's some guidelines so cursed content can be a safe time for everyone.
+
 * Cursed Content that has body horror & hyper fixation on specific body parts should be spoilered, and have an appropriate Content Warning applied.
 * No violent or gorey imagery.
 * Nothing NSFW/NSFL, this is a PG-13 server.
 
 ### Food Crimes
+
 Moist Talkers are the #1 exporter of food crimes, until the Wild Wings Legal Dept. sues us for this claim. If you ever need a refresher on food crime rules, or how to spoiler things in general, use the `+foodcrimes` command in chat.
+
 * Spoiler your images of food in general, and let people know there's food content underneath with a Content Warning. Either cw: food or cw: food crime
 * Food crimes that are food being mixed, combined or used in unconventional ways? good ✅
 * Food crimes that are unhygienic, off or spoiled, has something growing on it? bad 🚫
