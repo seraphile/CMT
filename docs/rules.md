@@ -48,21 +48,23 @@ You can ping the `@rep - moisttalkers` role if you want to get the reps' attenti
 
 Discord's role autocomplete doesn't handle spaces well. Typing @moist or @talkers will bring up the right role in the autocomplete, and you can click or tap it there.
 
+## Channels
+
 Our four channels are:
 * **#⚪the-daily-spews📰** a news/announcement board channel
 * **#⚪orb-corner🗣️** or whatever joke it's renamed for, general channel
 * **#⚪the-underarena👀** channel for live watching games and for strategy discussions
 * **#⚪the-louvgie🎨** an archival art channel
 
-## #⚪the-daily-spews📰
+### #⚪the-daily-spews📰
 
 Our news channel. Make sure to read to keep up with current events & team organization. The Spews is a good place to check if something big has happened while you were offline.
 
-### Emoji polls
+#### Emoji polls
 
 Sometimes the reps will post simple polls in the **#⚪the-daily-spews📰** that people can vote in by reacting with specific emoji. The reps do this to get a feel for general team vibes on a topic. The results of these are not set in stone, but they help the reps make snap decisions, such as e.g. whether to invite our opponents for the next game to come watch it with us.
 
-## #⚪the-louvgie🎨
+### #⚪the-louvgie🎨
 
 A channel dedicated to art & creative content only.
 
