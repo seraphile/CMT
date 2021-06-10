@@ -125,20 +125,29 @@ Moist Talkers are the #1 exporter of food crimes, until the Wild Wings Legal Dep
 * Food crimes that are unhygienic, off or spoiled, has something growing on it? bad 🚫
 
 ## Propaganda
+
 Propaganda is images related to voting, teams & events posted in **#community-billboard**.
+
 * DO NOT appropriate IRL facist/bigoted propaganda/imagery for your propaganda.
 * If your propaganda involves another team, get a temperature check from others in our channel if it seems appropriate.
 * If you use another person’s art in your propaganda, make sure to credit the artist.
 * If your propaganda is a direct edit of another person’s work ask that person for permission before posting.
 
 ## Misc.
+
 ### Pronouns
+
 You are not obliged to put your pronouns in your name, but we encourage doing so to make discord a more welcoming space.
+
 ###  Visitors
+
 Our teams policy to visitors by default is `Open✅`. You can check our up-to-the-minute status and other teams’ visiting policies here: <https://teams.beefox.xyz/>
+
 ### Sundaes🍨
+
 * Sundaes are a legit way to play the game that is Blaseball. Don’t criticize/moralize other team members for using them.
 * Conversely, do not do a song & dance about your payouts for Sundaes. Remember, Be Kind.
 
 ### Swoomba
+
 The Swoomba is a bot that deletes swear words. We have a couple of extra words that it considers “naughty words” in our channel. If your message gets randomly deleted for mentioning a certain webcomic, that’s why.
