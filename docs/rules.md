@@ -141,7 +141,7 @@ You are not obliged to put your pronouns in your name, but we encourage doing so
 
 ###  Visitors
 
-Our teams policy to visitors by default is `Open✅`, but we do ask people not to bring us election proposals. You can check our up-to-the-minute status and other teams’ visiting policies here: <https://teams.beefox.xyz/>
+Our teams policy to visitors by default is `Open✅`, but we do ask people not to bring us election proposals. The [Team Visitor Status site](https://teams.beefox.xyz/) has our up-to-the-minute status and other teams’ visiting policies.
 
 ### Sundaes🍨
 
