@@ -98,7 +98,7 @@ Currently the people running these tools are all reps, but the reps do try to ke
 
 ## Content Warnings & Cursed Content
 
-You can spoiler text by with the following formatting:
+You can spoiler text with the following formatting:
 
 `||` Spoiler Goes Here `||`
 
