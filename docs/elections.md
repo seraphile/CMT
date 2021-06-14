@@ -15,6 +15,7 @@ Some parts of this page refer to player attributes, which can be seen on the sit
 * [Plunder is very risky](#plunder-is-very-risky)
 * [Early voting is very risky](#early-voting-is-very-risky)
 * [Wills can clash](#wills-can-clash)
+* [OPERATION SPLASHDOWN](#operation-splashdown)
 
 ## Stars lie
 
@@ -117,3 +118,19 @@ In season 12, a few Boston Flowers fans voted to swap Alaynabella Hollywood with
 Other Flowers fans voted to swap Alaynabella Hollywood with then-Garages player Nagomi Mcdaniel using the Exchange Will. This succeeded with 0% of the Flowers' Will votes.
 
 The combination of these two Wills left Nagomi, a much better batter than either Alaynabella or Zesty, in the Flowers' shadows rather than on their lineup.
+
+## OPERATION SPLASHDOWN
+
+OPERATION SPLASHDOWN is a two phase plan that guides many of our stadium renovation choices.
+
+Phase one of OPERATION SPLASHDOWN was to vote for the High Pressure blessing in the season 13 election. This was successful, and we now have the High Pressure team mod, which reads as follows:
+
+> This team will play 25% better in Flooding weather when runners are on base.
+
+Although the wording is a bit unclear, we now know that High Pressure only works when we're batting, not when our opponents are batting. It's still very good.
+
+Phase two of OPERATION SPLASHDOWN is to keep the High Pressure mod active as often as possible. This is ongoing.
+
+Flooding+ is the most useful stadium renovation for taking advantage of High Pressure. Renovations that make it easier for players to get on base are also helpful. So are renovations that make it harder to hit home runs, because home runs clear the bases, which turns off High Pressure.
+
+A side effect of making it harder to hit home runs is that renovations that take advantage of home runs, like Big Buckets and Hoops, are not as helpful as they would be in other stadiums.
