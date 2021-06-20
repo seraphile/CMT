@@ -2,12 +2,12 @@
 
 ## Blessings
 
-**__HIGH PRIORITY__**
+### HIGH PRIORITY
 
 * Fringe Benefit
 * Light Handed
 
-**__LOW PRIORITY__**
+### LOW PRIORITY
 * Shot Caller
 * Sponge Blob
 
