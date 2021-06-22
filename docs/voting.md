@@ -1,30 +1,12 @@
-# S20 Voting Guide
+# S21 Early Voting Guide
 
-## Blessings
+It's helpful to wait for Saturday if you can, but if you're voting early, here are some options to consider.
 
-### HIGH PRIORITY
-
-* Fringe Benefit
-* Light Handed
-
-### LOW PRIORITY
-* Shot Caller
-* Sponge Blob
-
-## Wills
-
-Our most popular options this season are:
-
-* SWAP Augusto Reddick for London Simmons
-* MAGNIFY Cedric Spliff
-
-Backup plans are good plans, and our next most popular option is:
-
-* TAKE Clove Ji-Eun's Rubber Cap of Wisdom for Jacoby Podcast
-
-## Decrees
-
-Vote with your heart!
+* Play to Find Out
+* Trader
+* Gaudy
+* Cluttered
+* Darkside Flip
 
 ----
 
