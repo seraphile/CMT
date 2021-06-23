@@ -2,6 +2,7 @@
 nav_exclude: true
 search_engine_exclude: true
 sitemap: false
+redirect_to: https://docs.google.com/document/d/1-G9OEwC5U8--7097GIV0WgbdyM7R9EqBG0zTlBOVXl4/
 ---
 
-### ***Season 20’s Election has concluded.  Check back soon for the Seaon 21 MT Proposal Doc!***
+### ***Redirecting to Season 21 MT Proposal Doc...***
