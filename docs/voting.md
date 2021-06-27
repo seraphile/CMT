@@ -1,12 +1,33 @@
-# S21 Early Voting Guide
+# S21 Voting Guide
 
-It's helpful to wait for Saturday if you can, but if you're voting early, here are some options to consider.
+## Blessings
 
-* Play to Find Out
-* Trader
-* Gaudy
-* Cluttered
+### High Priority
+
+* Shadow Evolution
 * Darkside Flip
+
+### Low Priority
+
+* Pressure Cooker
+* Complete 180
+* Heads Over Tails
+
+## Wills
+
+Our most popular options this season are:
+
+* MAGNIFY Ziwa Mueller
+* MOVE Greer Lott to the Rotation
+
+Backup plans are good plans, and our next most popular options are:
+
+* SHADOW INFUSE Denim Squall
+* SWAP Beasley Gloom and Augusto Reddick
+
+## Decrees
+
+Sun 90
 
 ----
 
