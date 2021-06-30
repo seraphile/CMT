@@ -2,6 +2,7 @@
 nav_exclude: true
 search_engine_exclude: true
 sitemap: false
+redirect_to: https://docs.google.com/document/d/1sXBJt0I-cVDWnqNhrxnTwuhbrF_z5f1RnmFTuFjZLv0/
 ---
 
-### ***The Moist Talkers Proposal Doc for S22 will go live on Wednesday.  Discuss your plans on Discord and hone your proposals in the meantime!***
+### ***Redirecting to the Moist Talkers S22 Propodal Doc...***
