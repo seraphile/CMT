@@ -2,7 +2,7 @@
 nav_exclude: true
 search_engine_exclude: true
 sitemap: false
-redirect_to: https://docs.google.com/spreadsheets/d/1aOuDB_4uToBDP2DgbrtltKhrdI2ySxVaQ6nXQDLCoqk/edit?usp=sharing
+redirect_to: https://docs.google.com/spreadsheets/d/19koCfipZV7cX-rpAOcHIEv-D49pjOm0Cf0k3fbFOo60/
 ---
 
-### ***Redirecting to the S21 Moist Talkers election options poll results***
+### ***Redirecting to the S22 Moist Talkers election options poll results***
