@@ -2,6 +2,7 @@
 nav_exclude: true
 search_engine_exclude: true
 sitemap: false
+redirect_to:https://forms.gle/HzJPRZfEszvtwAEk6
 ---
 
-### ***There are no election strategy polls active right now. Unless we forgot to update this, so maybe check #⚪the-daily-spews📰, I guess.***
+### ***Redirecting to the S22 Moist Talkers Election Strategy Poll...***
