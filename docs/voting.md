@@ -1,33 +1,31 @@
-# S21 Voting Guide
+# S22 Voting Guide
 
 ## Blessings
 
 ### High Priority
 
-* Shadow Evolution
+* Autosave
 * Darkside Flip
 
 ### Low Priority
 
-* Pressure Cooker
 * Complete 180
-* Heads Over Tails
+* Gachapon
 
 ## Wills
 
 Our most popular options this season are:
 
-* MAGNIFY Ziwa Mueller
+* SHADOW INFUSE Cedric Spliff
 * MOVE Greer Lott to the Rotation
 
-Backup plans are good plans, and our next most popular options are:
+Backup plans are good plans, and our next most popular option is:
 
-* SHADOW INFUSE Denim Squall
-* SWAP Beasley Gloom and Augusto Reddick
+* SWAP Cedric Spliff and PolkaDot Patterson
 
 ## Decrees
 
-Sun 90
+-Sun
 
 ----
 
