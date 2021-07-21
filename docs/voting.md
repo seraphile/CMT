@@ -1,31 +1,6 @@
-# S22 Voting Guide
+# Voting Guide
 
-## Blessings
-
-### High Priority
-
-* Autosave
-* Darkside Flip
-
-### Low Priority
-
-* Complete 180
-* Gachapon
-
-## Wills
-
-Our most popular options this season are:
-
-* SHADOW INFUSE Cedric Spliff
-* MOVE Greer Lott to the Rotation
-
-Backup plans are good plans, and our next most popular option is:
-
-* SWAP Cedric Spliff and PolkaDot Patterson
-
-## Decrees
-
--Sun
+We don't have an election plan for Season 23 yet, we're still discussing the options!
 
 ----
 
