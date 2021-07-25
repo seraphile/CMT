@@ -1,6 +1,16 @@
-# Voting Guide
+# S23 Voting Guide
 
-We don't have an election plan for Season 23 yet, we're still discussing the options!
+**Party Favor**
+
+Team Roamless Crate
+
+**Blessings, primary targets**
+- Season 1: Booster Pack
+- Season 4: Precognition
+
+**Blessings, secondary targets**
+- Season 24: ENHANCE
+- Season 12: Uncle Indemnity
 
 ----
 
